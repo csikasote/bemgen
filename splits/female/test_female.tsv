@@ -1,0 +1,758 @@
+speaker_id	audio	sentence	duration	gender	gender_domain
+4	04-201005-213708_bem_40e_elicit_18.wav	mwe mfumu mukalima mukakopole na maboko tafyakamene mulenga amutumina ifyasalulwa atemwa ifyaipikwa	12.5	F	0
+4	04-200916-232841_bem_346_elicit_9.wav	akesa tusambilishako ifya kulanda icisungu	3.63	F	0
+4	04-200917-201407_bem_346_elicit_14.wav	niwebo nani ishina'	2.09	F	0
+4	04-200917-202808_bem_346_elicit_15.wav	uleumfwa ukulwala	2.36	F	0
+4	04-201009-122744_bem_40e_elicit_33.wav	kuti buleca abantu bonse imishi yonse basapukila mu mpanga	5.92	F	0
+4	04-201005-213708_bem_40e_elicit_10.wav	mwenya mu mutima ati nshakopwe nga baishiba inkaama ya kusalule mbuto	6.17	F	0
+4	04-201008-155010_bem_40e_elicit_17.wav	babeta fye apo pene ukuti ni bampundu	3.9	F	0
+4	04-200917-142312_bem_346_elicit_30.wav	nomba apa alibelela elo alecita bwino saana	4.38	F	0
+4	04-200914-220511_bem_346_elicit_36.wav	umuntu kuti aya naku masambililo yaku unifesti nokupoka digili	6.56	F	0
+4	04-201009-110829_bem_40e_elicit_5.wav	nabo abati ee fyali bantu icishili muntu nangu icishili mu musango wa bumuntu kuti caupa shani umuntu	10.3	F	0
+4	04-200917-201407_bem_346_elicit_0.wav	kutampilapo ukumuposha	2.9	F	0
+4	04-201005-204642_bem_40e_elicit_17.wav	mulenga ifyo engila mu ynanda ya muntu	4.74	F	0
+4	04-201008-151412_bem_40e_elicit_35.wav	umwine e watangilako ba nyina na nkashi yakwe e bamukonkapo elyo ni mfumu mwamba na bantu bonse panuma	11.55	F	0
+4	04-201005-212105_bem_40e_elicit_17.wav	we waba mu mapanga yonse njiswila pakuti njeshimika ukuti tawaba pamo iyoo	7.33	F	0
+4	04-201005-213708_bem_40e_elicit_12.wav	no bushe ulya mulenga atumine imfumu imbuto ishasalulwa	5.06	F	0
+4	04-200917-143010_bem_346_elicit_24.wav	icakatapa katapa ngabalelanda ici nyanja	4.74	F	0
+4	04-201009-110829_bem_40e_elicit_29.wav	kanshi balilekana cinecine	4.02	F	0
+4	04-201005-205341_bem_40e_elicit_10.wav	limolimo uyu nyinabo katayi aleitilwa na kuli mwenya kwine baleti namwenya	9.46	F	0
+4	04-200914-215547_bem_346_elicit_36.wav	efyo twatemenwa imitundu yesu	3.13	F	0
+4	04-201008-155438_bem_40e_elicit_7.wav	palya pene na namayo umo aibukisha ifyo bakapooli balemu lila imbalala	7.62	F	0
+4	04-200916-232841_bem_346_elicit_23.wav	lintu atampile mu geledi one alecita bwino saana	4.45	F	0
+4	04-200917-201407_bem_346_elicit_16.wav	ninshi uyo muntu asanguka e munobe waumfwa	4.47	F	0
+4	04-200916-232135_bem_346_elicit_11.wav	kanofye ngaba ati 'imakaneni' elo nabena baiminina	5.79	F	0
+4	04-200914-220511_bem_346_elicit_2.wav	steward yali shani ama holide wemutemwikwa	3.54	F	0
+4	04-201009-110829_bem_40e_elicit_24.wav	bakafundisha ba matiyashi bayankula bebele iyoo teifyo mateo	8.87	F	0
+4	04-200916-232135_bem_346_elicit_7.wav	cali icashupa ukucisambilila nangu ukweba ati wibukishe	6.17	F	0
+4	04-201005-212919_bem_40e_elicit_11.wav	kanshi abayeke ilyo baleisa bamona abeminine kuntanshi beka e pa kuyako imbilo bacila pa bali ku miti	10.82	F	0
+4	04-201005-213708_bem_40e_elicit_20.wav	cinecine shimapepo afwa	3.2	F	0
+4	04-201008-160002_bem_40e_elicit_2.wav	nakasofu na banankwe baya ku kunukulo bowa bali pa mushi pa kaponyandeke	8.69	F	0
+4	04-201008-153522_bem_40e_elicit_10.wav	balasosa ati bufi kano nefwe tumone nga tusumine	5.88	F	0
+4	04-201008-155010_bem_40e_elicit_16.wav	kano fye abafyalwa babili ubushiku bumo abasendame fume limo bena tababuka mashina yabo	9.26	F	0
+4	04-201008-151412_bem_40e_elicit_36.wav	tabalesosa pa kuya iyoo bafika bakosha ne conto ca mulilo	5.76	F	0
+4	04-200917-143010_bem_346_elicit_40.wav	ninani uwacenjela sana mukushimika akashimi	3.95	F	0
+4	04-200917-201407_bem_346_elicit_13.wav	shani  ulishani'	2.54	F	0
+4	04-201005-205341_bem_40e_elicit_24.wav	ne calenga ukuti tulumbule aba bonse ni pa kulanga ukuti tafyelwe eka	7.62	F	0
+4	04-201009-110017_bem_40e_elicit_5.wav	musonda lishina lya muntu itandwe cimbicimbi fye	4.2	F	0
+4	04-201009-110017_bem_40e_elicit_18.wav	abakalamba abati pawilile umwaushi umo uwatile njabulepo insalu	7.46	F	0
+4	04-200917-143010_bem_346_elicit_22.wav	iyi filimu ibomfya utumitwe utwamalangi ayengi	5.9	F	0
+4	04-200916-223805_bem_346_elicit_24.wav	kennedy ninshi tawacishila ku sukulu	2.95	F	0
+4	04-200914-215055_bem_346_elicit_19.wav	ninshi ifwe twainuka	2.16	F	0
+4	04-200914-215547_bem_346_elicit_13.wav	panuma yabushiku watoloka umushilwa umo	4.54	F	0
+4	04-201008-151412_bem_40e_elicit_21.wav	eo mukaya nao kuli mwano akatupapatileko ku milungu isuma twacula muno ku balwani	10.03	F	0
+4	04-200917-201407_bem_346_elicit_19.wav	naiwe nerbert taukonkoseshe	3.38	F	0
+4	04-200917-142312_bem_346_elicit_24.wav	makumbi makumbi  icakashika katapakatapa	3.38	F	0
+4	04-201005-212105_bem_40e_elicit_6.wav	kabili na kuli mayo nindaya nati nshabwele akasuba nako nakawa	5.76	F	0
+4	04-201005-213708_bem_40e_elicit_6.wav	alebapeela lelo panuma ya lubuli balwile na baswahili lyena nakaoma alikenye mwane ukubapeela imbuto ishisuma ati salula	14.84	F	0
+4	04-200914-215055_bem_346_elicit_10.wav	bakafundisha steward acili alelya bisiketi	4.74	F	0
+4	04-201005-204642_bem_40e_elicit_8.wav	nomba apo naishiba ukulemba nalashimika na ine kuli imwe	6.1	F	0
+4	04-200917-143010_bem_346_elicit_39.wav	imisango ububi  wilalwa	2.36	F	0
+4	04-201009-122744_bem_40e_elicit_1.wav	katutale tumone ifyo amalampi tumfwile yabomba	4.49	F	0
+4	04-200914-215547_bem_346_elicit_34.wav	kwati ifyaba icitundu nacimbi mu afrika	4.04	F	0
+4	04-201008-154234_bem_40e_elicit_5.wav	chilufya ali e mwine we tanda emo ababiye baleisa mu kusendama chilufya alota inkalamo ilemutamfya	9.19	F	0
+4	04-201009-122744_bem_40e_elicit_9.wav	bwangubwangu amona icali cilebyata cafika	4.54	F	0
+4	04-200914-215055_bem_346_elicit_4.wav	yesa ama nambala	2.06	F	0
+4	04-200917-143010_bem_346_elicit_19.wav	bushe naukwatako imo	2.81	F	0
+4	04-201009-110017_bem_40e_elicit_7.wav	naco icayandalala cilanduluka musonda we tandwe cishiba icabela mu nika batila musonda	11.25	F	0
+4	04-200917-202808_bem_346_elicit_22.wav	steward cinshi caalubana	2.22	F	0
+4	04-200916-223805_bem_346_elicit_15.wav	ehe mucita shani	2.02	F	0
+4	04-201005-212919_bem_40e_elicit_7.wav	kanshi bashamfumu ba lubemba bamwene ukuti kuti cawama ukwafwako abayeke ukucimfya kafululanga	12.95	F	0
+4	04-201008-155010_bem_40e_elicit_1.wav	pa nsaka kamwana nsemba kaipusha abakalamba akati	5.9	F	0
+4	04-201012-174116_bmy_47d_elicit_5.wav	nangu bacimfishe bakalimamalungu ubuta tabwalepwa iyoo	6.69	F	0
+4	04-200917-202808_bem_346_elicit_17.wav	steward tuleya ku ng'anda	2.75	F	0
+4	04-201012-174116_bmy_47d_elicit_10.wav	kwena limolimo balebwela ku mfumu no kushimika ifyo shimapepo alecita	7.71	F	0
+4	04-201008-153522_bem_40e_elicit_30.wav	kanshi tutile nomba umuntu aba cimbicimbi fye te muntu	5.35	F	0
+4	04-201009-110017_bem_40e_elicit_6.wav	lishiwi ilyatula ku kwandalala	4.42	F	0
+4	04-200917-142312_bem_346_elicit_18.wav	nalakuma iwe steward ngolemona ati ndesekesha	3.56	F	0
+4	04-200916-223805_bem_346_elicit_16.wav	bushe ukutoloka cimo cine 'ukunyantisha amakasa' kwati nifi	6.9	F	0
+4	04-200917-202142_bem_346_elicit_16.wav	cinshi calubana cinshi ulelilila	3.11	F	0
+4	04-201009-122744_bem_40e_elicit_37.wav	nafumbula tata mulenga mukulu mwana katayi shimutobe fupa lya nkoko ne boondo shimupa ngo kufwita we cibwela lucelenanga	14.04	F	0
+4	04-200917-142312_bem_346_elicit_46.wav	icisungu calimininafye mutundu wasuminishiwa wa calo ca zambia	5.85	F	0
+4	04-201005-211232_bem_40e_elicit_6.wav	elyo aeba imfumu na bantu ati awe nomba capwa inombe yashala ipayeni moce yena twalalya nifwe	11.05	F	0
+4	04-200916-232620_bem_346_elicit_13.wav	moneni nacishupa mutoteleniko	3.49	F	0
+4	04-201005-205341_bem_40e_elicit_5.wav	e calengele benike nyinabo katayi batile ni nakaoma	6.44	F	0
+4	04-201005-213708_bem_40e_elicit_8.wav	kanshi mwenya uwapishishe imyaka itatu apo awilile icisungu umwipwa wa mfumu e wamukobekele ukuti akamuupe	12.39	F	0
+4	04-201008-155010_bem_40e_elicit_19.wav	nalubila aya ma shina baleinika muno nshiku baleti bupe njelenjeli awe ye nshishibe	11.34	F	0
+4	04-201008-151412_bem_40e_elicit_15.wav	yatontonkenye ukuti	2.52	F	0
+4	04-200916-232135_bem_346_elicit_24.wav	ngakuli umuntu umupya kwati ngawatampa isukulu	5.54	F	0
+4	04-201008-151412_bem_40e_elicit_27.wav	nao pa kwima atala apita ku mfuba shakwe asha apepa e pa kuya na kuli shimapepo mukalamba	11.12	F	0
+4	04-201005-212105_bem_40e_elicit_27.wav	nyina te mukani asumina bakukila nomba mu lupili lwa chisha	6.67	F	0
+4	04-201008-153522_bem_40e_elicit_0.wav	mulenga abuka mu mupashi	2.68	F	0
+4	04-200917-202808_bem_346_elicit_11.wav	taulefwaya ukuya ku ng'anda	2.06	F	0
+4	04-200917-143010_bem_346_elicit_13.wav	mumush walwimba abalanda icisoli insa shibili ukufuma ku lusaka	5.9	F	0
+4	04-201008-151412_bem_40e_elicit_38.wav	mulenga ashifuma fye mu muyenge icisoka ca mpande pa mutwe naco cafuma mu menshi calala na pa lino lya nsofu	10.73	F	0
+4	04-200917-201407_bem_346_elicit_9.wav	panuma yaifyo nomba	2.22	F	0
+4	04-201008-155438_bem_40e_elicit_21.wav	ne wabikako amano uleumfwa pakuti kawe abanakashi balekasosa ne miku umwanda	9.39	F	0
+4	04-201009-110017_bem_40e_elicit_2.wav	kanshi ilyashi lya kupepa kwakwe na limbi ili	4.13	F	0
+4	04-201008-155010_bem_40e_elicit_7.wav	pantu mulenga acilike ifumo lilya mu yanda	3.92	F	0
+4	04-201008-154234_bem_40e_elicit_17.wav	abaice amano yapela ico bashishibe uko engilile	4.45	F	0
+4	04-200916-223805_bem_346_elicit_47.wav	ndefwaya aba abaice bakule elo bakebeko umuntu umo akasuba kamo eya	6.81	F	0
+4	04-200916-232620_bem_346_elicit_10.wav	umutwe na mapeya amakufi no tukondo	3.61	F	0
+4	04-201009-110829_bem_40e_elicit_10.wav	apo pene epo mwishibile mwe bana ukuti ifiwa nafya bantu abapokelelwa na ciwa mukulu lushifelo	9.1	F	0
+4	04-201008-155010_bem_40e_elicit_10.wav	pantu ashile ifumo lya ulya mwana	3.18	F	0
+4	04-201005-211232_bem_40e_elicit_9.wav	abakalamba bamobamo basosela pamo abati icilibwe caleisuka kwati mwinshi na bantu baleingila mukati	11.25	F	0
+4	04-200914-220511_bem_346_elicit_1.wav	kuti walanda mu cisoli nangu mu cinyanja	4.06	F	0
+4	04-200914-215055_bem_346_elicit_17.wav	mpaka temu ilekonkapo	3.04	F	0
+4	04-200916-232841_bem_346_elicit_6.wav	tulefwaya asambilile ukulanda cisungu	3.27	F	0
+4	04-200916-223805_bem_346_elicit_40.wav	ngawalintemwa bakafundisha bobe ukalaisa ku sukulu lyonse	5.99	F	0
+4	04-200914-220511_bem_346_elicit_12.wav	kuli holide yandi naile ku chalimbana	3.24	F	0
+4	04-200917-143010_bem_346_elicit_27.wav	temu one mu januwale	2.06	F	0
+4	04-201008-160002_bem_40e_elicit_13.wav	abantu baima bafwaya bafwaya nakalya	3.43	F	0
+4	04-201008-151412_bem_40e_elicit_30.wav	kuno mwaisa ni kuli lesa mukulu kabili mukali sana nga mwapusa mu fintu ndemweba	7.28	F	0
+4	04-201005-212919_bem_40e_elicit_5.wav	umukote uwanshimikile atile balefwala fye mpapa sha nama ashimike no kuti babutukile ku kapinda ka kulyo	12.84	F	0
+4	04-201008-160002_bem_40e_elicit_4.wav	nakasofu amona umulongo wa tente kuntanshi cilya ati alenukula amona umuntu umo kuntanshi aleluka teshibe ukuti ni mulenga wa mpanga ena ati munandi	16.97	F	0
+4	04-200914-220511_bem_346_elicit_37.wav	tontonkanyenipo nga kwali isukulu ukwakuya nokupoka dipuloma elo mwatwalilila	8.08	F	0
+4	04-201009-110017_bem_40e_elicit_11.wav	lelo nga apepapo icani conse cayandililapo cayanduluka catanda buka caba nomba cishiba icabuuta tutu icikalamba	12.93	F	0
+4	04-201009-110017_bem_40e_elicit_29.wav	awe aiposapo aibila ca yandalala no kwandalala	7.17	F	0
+4	04-201008-160002_bem_40e_elicit_7.wav	kunuma ababiye baita banaka fye	3.06	F	0
+4	04-201005-204642_bem_40e_elicit_4.wav	aba bene bakalamba balesosa abati mulenga takafwe pantu lesa alimulemba icishibile icakukanaipaiwa	11.25	F	0
+4	04-201008-153522_bem_40e_elicit_1.wav	ishamfumu na bantu bashiko basenda ne filyo fyakwa mulenga	6.56	F	0
+4	04-201008-154234_bem_40e_elicit_14.wav	no uyu muntu aiminine fye filya fine pa nshita ikalamba	4.42	F	0
+4	04-201008-154234_bem_40e_elicit_13.wav	icishele kuli balya bana kuwa panshi ubukupeme bafimba ne minwe pa menso ico bali no mwenso wa kutiina ukulolesha uyu muntu aisaiminina mu yanda	13.98	F	0
+4	04-200914-215547_bem_346_elicit_48.wav	elo kulaumfwakofye ifitundu fimbi	3.81	F	0
+4	04-200914-220511_bem_346_elicit_18.wav	steward ninshi ali ku chalimbana alecema imbushi ne ng'ombe	5.01	F	0
+4	04-201005-211232_bem_40e_elicit_3.wav	e pakuti bonse bakeshibe ukuti uli shibo	4.74	F	0
+4	04-201005-213708_bem_40e_elicit_2.wav	alelima ifilyo ifya misangomisango ifisuma fyaletefuma fye ifyafunda	8.28	F	0
+4	04-201009-122744_bem_40e_elicit_24.wav	inama shonse shiliko ukufika apapelele imibengelele ye lampi	6.06	F	0
+4	04-201009-110017_bem_40e_elicit_1.wav	musonda we tandwe e cishiba icabela mu calo mwa mukupa kaoma mu bulungu	7.9	F	0
+4	04-201005-205341_bem_40e_elicit_4.wav	nyinabo ali ni katayi umukalamba wabo ibeli lyabo ni kaoma	6.94	F	0
+4	04-201008-160002_bem_40e_elicit_12.wav	abanabo bayasosa no mulandu ku mushi	3.58	F	0
+4	04-201008-151412_bem_40e_elicit_3.wav	mpelako na ine amaka ya kwikatisho lukasu pakuti ndelimisha	5.83	F	0
+4	04-201008-155010_bem_40e_elicit_3.wav	ba mwango bamwasuka abati cinecine waipusha bwino	4.11	F	0
+4	04-200914-220511_bem_346_elicit_29.wav	ulelanda ati mu cisoli fye	3.04	F	0
+4	04-201009-110829_bem_40e_elicit_22.wav	amulaile no kuti uukamwipaya akalapishiwa ukucila kaino wine	7.44	F	0
+4	04-201005-212919_bem_40e_elicit_22.wav	basosa no mulandu ku mfumu	2.99	F	0
+4	04-200914-215547_bem_346_elicit_32.wav	ici soli calikwata lyashi lyakale kusambililamo nentambi ishcindama	7.74	F	0
+4	04-200917-143010_bem_346_elicit_34.wav	mulefwaya nande mucisungu kuli imwe nomba	3.72	F	0
+4	04-201008-154234_bem_40e_elicit_6.wav	epakulapundila ku tolo ati amasense ee kuno kulya ici owe owe ee	10.19	F	0
+4	04-201005-205341_bem_40e_elicit_1.wav	mulenga kale ali fye muntu pamo pene nga fino fine tuli	5.24	F	0
+4	04-201008-155438_bem_40e_elicit_15.wav	umukote ati nabo bene mulenga abalye	3.47	F	0
+4	04-201009-122744_bem_40e_elicit_26.wav	shaba ne cifungalashi mu mishipa yonse	3.79	F	0
+4	04-201008-151412_bem_40e_elicit_22.wav	bwati bushica fye mwine lubemba abula ilino lya nsofu ne yombe shibili	7.42	F	0
+4	04-201012-174116_bmy_47d_elicit_18.wav	ilya mfumu ya linso nga yaishila umuntu muli bungulu ku lubingu kuti umuntu alasesema ati he he he nine mufishisheni mwitwa na lucele	15.22	F	0
+4	04-200917-143010_bem_346_elicit_31.wav	nganamiposha mucitundu cenu tamwishibe	4.33	F	0
+4	04-200917-143010_bem_346_elicit_23.wav	utumitwe utwakashika etukalabomba nga balelanda ici soli	5.94	F	0
+4	04-201005-205341_bem_40e_elicit_3.wav	nao wine bali ifi fine	2.97	F	0
+4	04-200916-232841_bem_346_elicit_16.wav	nshilekupela candi	2.56	F	0
+4	04-200916-232620_bem_346_elicit_2.wav	umutwe na mapeya amakufi no tukondo	4.2	F	0
+4	04-201008-155010_bem_40e_elicit_14.wav	abafyashi bakwe kuti baya kuli banakulwiba no kusosa ukuti akana te pa kulila	8.98	F	0
+4	04-201008-160002_bem_40e_elicit_19.wav	efyo bacitile no kumufutikila	3.77	F	0
+4	04-201008-154234_bem_40e_elicit_2.wav	eco tutila mutandashi musuma kanshi mwalaumfwa ifyo engila mu mayanda ya bantu	6.24	F	0
+4	04-200916-232135_bem_346_elicit_23.wav	eloshani muli shani	4.02	F	0
+4	04-201008-155438_bem_40e_elicit_8.wav	ati mayo kapooli ifyo alendila imbalala mu ibala awe mwandi teti utemwe	5.99	F	0
+4	04-200914-215055_bem_346_elicit_18.wav	webby ili elo ulefika	3.11	F	0
+4	04-201009-122744_bem_40e_elicit_35.wav	na baice na banakashi kumo nabo bene balekomaula shilya nama shakumbilwe cele munda	8.39	F	0
+4	04-200917-142312_bem_346_elicit_17.wav	ufwile watola ifisoso	2.06	F	0
+4	04-201012-174116_bmy_47d_elicit_19.wav	e kutila nine mfumu ya kufishisha kano lucelenanga akesenjita ishina lyandi	8.96	F	0
+4	04-201008-160002_bem_40e_elicit_6.wav	aleita no kwita ati we munandi twende ku mushi bwalaila umubiye ulya no kwasuka nakalya aleya fye cinshinshi	11.16	F	0
+4	04-200917-202142_bem_346_elicit_6.wav	steward kabiye ku ng'anda	2.95	F	0
+4	04-201005-211232_bem_40e_elicit_20.wav	aingila mukati mwali umwafiita fititi taishibe ukuti caba nge nanda atemwa lucengo	10.5	F	0
+4	04-201012-174116_bmy_47d_elicit_9.wav	kaoma na konkola nabo basuka bafulumuka umulimo wabo uwakwipikila abantu umwafi baya kuli balupwa lwabo ku chisha	11.14	F	0
+4	04-200914-215547_bem_346_elicit_33.wav	ecisumapo ico pa ci soli	2.84	F	0
+4	04-201009-122744_bem_40e_elicit_22.wav	yaisula fye ubutanshi bwa cifungalashi	4.38	F	0
+4	04-201005-205341_bem_40e_elicit_22.wav	aleti fye kuli uyu mwana ayaikalako panono kuli wyu nako panono	6.76	F	0
+4	04-201008-151412_bem_40e_elicit_2.wav	lesa mukulu we wamaka yonse we waimba ici cintu ku maka yobe kabili ku kutemwa kobe	10.46	F	0
+4	04-201009-122744_bem_40e_elicit_17.wav	nabwalya ayasosa umulandu ku bantu ati mulenga nalesha katapa no bowa asosele ukuti mailo mukayetoola inama mu mpanga	10.07	F	0
+4	04-201009-122744_bem_40e_elicit_16.wav	mulenga abwelelamo ku kubika ili lampi ayabuula limbi ilyo batila imfuti yakwe	7.76	F	0
+4	04-201012-174116_bmy_47d_elicit_13.wav	uyu mukalamba anshimikile ukuti mu lupili lumo ulwa ku lubingu mukati limolimo nga mwayamo mukasanga cimo nga lampi cileyaka ninshi imipashi naitemwa	15.0	F	0
+4	04-201005-204642_bem_40e_elicit_16.wav	abantu balya inama shakwa mulenga	3.92	F	0
+4	04-200917-142312_bem_346_elicit_40.wav	cimofye icintu batemenwe mukati ka iyi temu	4.17	F	0
+4	04-201005-212919_bem_40e_elicit_12.wav	abali ku miti batampa ukulasa abayeke mu numa na kuntanshi nako balalaswa ukwakubutukila kwabula	11.03	F	0
+4	04-201005-212105_bem_40e_elicit_8.wav	ulucelo kabili amano yambi yaisa ati yangu bane muno muntu ubusuma	6.49	F	0
+4	04-201005-212919_bem_40e_elicit_10.wav	aba bantu abepi balebula bamo baiminina kuntanshi akatalamukila bambi bena banina imiti babelama mu mabuula	12.05	F	0
+4	04-200917-202808_bem_346_elicit_0.wav	naliya mukumona bakafundisha bakwe mukulandapo nabo	4.08	F	0
+4	04-201008-151412_bem_40e_elicit_26.wav	mwamba tailekaana	3.63	F	0
+4	04-200917-143010_bem_346_elicit_3.wav	bafwile baya ku sukulu no kusambilila	3.06	F	0
+4	04-200914-220511_bem_346_elicit_32.wav	kuti fyabombeka	2.11	F	0
+4	04-201012-174116_bmy_47d_elicit_1.wav	ilyo babanshishe tabaipeye nkole nelyo umo babebele fye ukuya	7.49	F	0
+4	04-201005-204642_bem_40e_elicit_14.wav	mulenga abuka mu mupashi	3.65	F	0
+4	04-201008-151412_bem_40e_elicit_10.wav	babashimikila no kuti amaka ya kulima afumya mu kupepa abati	5.94	F	0
+4	04-201009-110017_bem_40e_elicit_19.wav	aba baushi bafumine kumwabo bali babili	4.15	F	0
+4	04-201005-204642_bem_40e_elicit_20.wav	umuntu asendwa na mulenga	2.95	F	0
+4	04-201009-122744_bem_40e_elicit_4.wav	akwapila ne lampi lyakwe ilyabumi ilyabuuta tuutu kwati ni filya ilampi lye shitima libuutisha umo lileya ubushiku	12.18	F	0
+4	04-201008-155438_bem_40e_elicit_22.wav	ala banamayo nabo ku kushika ifya musango uyu eko baikale nshikili	7.78	F	0
+4	04-201005-204642_bem_40e_elicit_18.wav	apafumine ukwinika ishina lya mulenga	4.04	F	0
+4	04-200917-142312_bem_346_elicit_8.wav	mushili wamilimo twange	2.7	F	0
+4	04-201005-211232_bem_40e_elicit_1.wav	mulenga aipaya ne yombe imo aoca	4.33	F	0
+4	04-200914-215055_bem_346_elicit_7.wav	calipimwa ati abantu two point three billion nangu pabali forty pe senti pantu ba mwisonde	8.28	F	0
+4	04-201008-153522_bem_40e_elicit_20.wav	nomba aba na ulya mubili ushikatwa ulya mwana lesa christu asosele ati umulungulwa tawaba na mubili uwikatwa na mafupa tawakwata	13.52	F	0
+4	04-201009-110829_bem_40e_elicit_2.wav	awe ifiwa fyalamutamfya na cilya mutila caupile bwalya lelo ndume yakwe amupaka mu kaoma alalisha kaya na mu mulu	12.41	F	0
+4	04-201009-122744_bem_40e_elicit_2.wav	twalabalilapo ilampi enda nalyo ilyo asanika na mu lupili chisha	5.88	F	0
+4	04-200916-232135_bem_346_elicit_2.wav	twaletampa ukusambilila mucisungu mu geledi one	4.31	F	0
+4	04-201008-153522_bem_40e_elicit_5.wav	ifimoneka fyaba pabili kuli ifimoneka pe ne fimoneka limolimo eico tutila 'visibilium et invisibilium'	13.05	F	0
+4	04-201005-212105_bem_40e_elicit_12.wav	ulya lesa e waba na maka ya kufukule fintu e wafukula ne ci cine	6.62	F	0
+4	04-201008-155438_bem_40e_elicit_5.wav	mwalishiba ukuti ilingi fwe bantu twatemwisha ukulanda pa fyapita kale	6.94	F	0
+4	04-200916-232841_bem_346_elicit_10.wav	mpelako kamo steward	2.25	F	0
+4	04-201005-212105_bem_40e_elicit_23.wav	kanshi ilyo bamwiswilile no mutima waika ainika no lupili lwine ishina lyakuti ni chishamutima	10.19	F	0
+4	04-200917-143010_bem_346_elicit_2.wav	abana mufyalo ifyapusana pusana nemitundu	3.72	F	0
+4	04-200916-223805_bem_346_elicit_32.wav	bushe taulefwaya	3.24	F	0
+4	04-200916-223805_bem_346_elicit_0.wav	walampelako limo	2.13	F	0
+4	04-201008-154234_bem_40e_elicit_26.wav	ati ekale fye panono amona iciibi caishimpa na kukati ka ganda	7.9	F	0
+4	04-200916-223805_bem_346_elicit_37.wav	bushe walintemwa  nalikutemwa	2.9	F	0
+4	04-201008-155010_bem_40e_elicit_9.wav	umwana akafyalwa muli lilye fumo akalaitwa ishina lya mutoto ilya ulya muntu afwile	8.39	F	0
+4	04-200917-143010_bem_346_elicit_21.wav	ba kafundisha ngatabaliko kuti twaendafye nokwingila	4.86	F	0
+4	04-200914-215547_bem_346_elicit_12.wav	ubu ebushiku bwalelo elo ileya pamulu	4.27	F	0
+4	04-201012-174116_bmy_47d_elicit_23.wav	lelo ilambo lya mpanga lyena tapali nelyo umo uwalelya yaleposwa yonse pa cipooma atemwa ukuyoca yonse yalungula	11.71	F	0
+4	04-200916-232135_bem_346_elicit_17.wav	nshita yakulemba ba geledi one	3.74	F	0
+4	04-200914-220511_bem_346_elicit_35.wav	ukwabula ukulabomfya ne mitundu imbi yashala	4.42	F	0
+4	04-201009-110017_bem_40e_elicit_17.wav	mu nshiku shino calileka pantu tapaba waishiba ukupepapo incende yena epo icili no lufuba no mwala filya fine caikala icayandalala	15.68	F	0
+4	04-201008-154234_bem_40e_elicit_3.wav	abaice batatu bali mu tulo mu mushi wa canakampasa	5.08	F	0
+4	04-201012-174116_bmy_47d_elicit_7.wav	ico balefulumuka bukali bwa bamulalakwacenama ababemba	6.62	F	0
+4	04-201005-211232_bem_40e_elicit_4.wav	aipula inama na pa mulilo alashipoosa pa menshi yasuka inombe yonse yapwa	8.24	F	0
+4	04-200914-220511_bem_346_elicit_24.wav	kanshi steward ali ku chalimbana pa holide yakwe	4.7	F	0
+4	04-200914-215547_bem_346_elicit_30.wav	kuli imwe mweba ngalemba amashina yenu nalimitemwa	5.45	F	0
+4	04-200916-232841_bem_346_elicit_11.wav	kuli nafimbi kuno nakwena	2.31	F	0
+4	04-200914-215547_bem_346_elicit_22.wav	ubikepo 'ishina lwandi ni  ayanda'	3.95	F	0
+4	04-201005-204642_bem_40e_elicit_1.wav	kale ilyo nali umwaice uwa myaka ikumi limo abakalamba baleshimika libililibili pa nsaka umulandu wakwa mulenga wa mpanga pamo no mulandu wakwa nakaoma	16.13	F	0
+4	04-200914-215547_bem_346_elicit_2.wav	mwibuka kwati cinama nangu umuntu	4.22	F	0
+4	04-200916-232841_bem_346_elicit_0.wav	ehe limbi mu kalasi mumwakwe ni namba one	5.22	F	0
+4	04-200917-142312_bem_346_elicit_31.wav	elo alifye ne myaka sikisi	2.25	F	0
+4	04-200916-232620_bem_346_elicit_17.wav	ikateni pamitwe yenu bonse ikata umutwe	3.9	F	0
+4	04-201009-122744_bem_40e_elicit_10.wav	kuti ukwimya amenso ashimpa fye mu muntu ululubele pakati ka mputa	6.83	F	0
+4	04-201008-155010_bem_40e_elicit_2.wav	bushe batini ishina lyandi ilya mulenga lyafumine kuli uyu wine mulenga wa mpanga	5.56	F	0
+4	04-201005-213708_bem_40e_elicit_22.wav	tabamushikile iyo batila abolele mulya mwine	3.9	F	0
+4	04-200917-202142_bem_346_elicit_2.wav	ukumwafwako ukumfwikisha bwino ku sukulu	3.65	F	0
+4	04-201009-110829_bem_40e_elicit_11.wav	abakwa lesa bapokelelwa na lesa bena betwa abatakatifu	6.35	F	0
+4	04-201009-110017_bem_40e_elicit_21.wav	cabu ebele cibuye cinshi tulungeme ku lupa	5.42	F	0
+4	04-201005-213708_bem_40e_elicit_17.wav	mwenya asuka atumbule nkaama ku mfumu ati	4.06	F	0
+4	04-201005-213708_bem_40e_elicit_21.wav	na nomba batila amamba ya mbalala balelya ne mito balekosesha umulilo ne lino lya nsofu apo mulenga aleikala kuti wafisanga mu lupili lwa chisha	12.84	F	0
+4	04-200916-223805_bem_346_elicit_19.wav	elo watoloka nakabili toloka elo wimbe	4.72	F	0
+4	04-201005-205341_bem_40e_elicit_21.wav	katayi nyinabo ico ashele umushimbe abana bacili abaice tamwene cifulo cinecine	9.98	F	0
+4	04-200917-142312_bem_346_elicit_1.wav	awe te mushili 'ofuweka'	2.65	F	0
+4	04-200917-142312_bem_346_elicit_5.wav	awe te mumilimo 'ofweka'	2.7	F	0
+4	04-200916-232620_bem_346_elicit_7.wav	moneni efyo alaisa imba	2.13	F	0
+4	04-201008-154234_bem_40e_elicit_28.wav	amona umuntu umutali ne cililampi icayakisha alulubala pakati ka yanda	7.71	F	0
+4	04-200916-232620_bem_346_elicit_23.wav	ciinshi eco ulandilamo	2.09	F	0
+4	04-200916-232620_bem_346_elicit_24.wav	apa lelo twalasambilila efyo babomfya icimbusu	4.54	F	0
+4	04-201008-154234_bem_40e_elicit_11.wav	bamona no mwine alulubele pakati ka yanda uwabuta tuutu umutali	7.94	F	0
+4	04-200914-220511_bem_346_elicit_5.wav	irene ali ku ng'anda	2.02	F	0
+4	04-200917-143010_bem_346_elicit_44.wav	nomba kwaliba ishikulu indimi cine lubali	3.86	F	0
+4	04-201005-212105_bem_40e_elicit_1.wav	bamayo na mwenya bakulasendamina kukati ine kuno mwinshi	6.24	F	0
+4	04-201012-174116_bmy_47d_elicit_6.wav	abantu baleendauka ukufuma mu tupinda tonse ukwisafwaya ubwikashi mu ncende umushali bantu libililibili balepita mu lubemba balelwa nabo	14.38	F	0
+4	04-200914-220511_bem_346_elicit_6.wav	cinshi teshile ku sukulu	2.36	F	0
+4	04-201008-155438_bem_40e_elicit_18.wav	uwakwasuka abula umuntu umutima wakalipa atupa iyo alalapisha mu mashiwi yene ali omfwile ku mukote ati	11.53	F	0
+4	04-200914-220511_bem_346_elicit_46.wav	ishina lyandi ni musonda'	2.22	F	0
+4	04-201009-122744_bem_40e_elicit_30.wav	alipilibwila tupinda tonse nifyo fine inama shaba ishatutubala	6.51	F	0
+4	04-201008-155438_bem_40e_elicit_2.wav	balepisha fye umunwe pa mukoshi basonta na mu mulu abati lesa ku mulu	6.17	F	0
+4	04-200916-232135_bem_346_elicit_10.wav	kuti namwikalafye ukwabula ukwishiba ifilechitika	3.92	F	0
+4	04-200917-142312_bem_346_elicit_43.wav	alelyafye ama bisiketi	2.86	F	0
+4	04-201008-151412_bem_40e_elicit_14.wav	pa mulandu wa kuti imfumu balecushanya na banalanansa abo balelwishanya nabo pepe	10.71	F	0
+4	04-200914-215055_bem_346_elicit_13.wav	eico nacilafwaya ukulanda ati	3.11	F	0
+4	04-201008-155438_bem_40e_elicit_6.wav	kanshi no yu mukalamba aleshimikila abakashana ifyo balile inama isho mulenga akumbile icele munda	10.14	F	0
+4	04-201008-160002_bem_40e_elicit_10.wav	mulenga alamusanikila ilampi umwakuya pantu nomba bwaila	6.44	F	0
+4	04-201008-153522_bem_40e_elicit_25.wav	nga nuisala inanda ena kuti apita apabula akapunda	5.51	F	0
+4	04-201005-212105_bem_40e_elicit_9.wav	bushe impili shonse shaba fino fine awe iyoo	3.77	F	0
+4	04-201008-155438_bem_40e_elicit_10.wav	bwangubwangu ulya mukote ati ala eco mulenga alefi kumbile cele munda eco afililile mulenga abalye abo baka pooli balemonawile ifisabo	17.2	F	0
+4	04-200917-201407_bem_346_elicit_6.wav	nimwebo banani ishina'	2.22	F	0
+4	04-200914-220511_bem_346_elicit_20.wav	nomba panuma yaku chemenena walibwela	3.92	F	0
+4	04-201005-212919_bem_40e_elicit_16.wav	chitimukulu nao atuma abantu ku kupepa kuli mulenga ku lupili lwa chisha	7.17	F	0
+4	04-200914-215547_bem_346_elicit_4.wav	bushe mwalikwata amanyunshipepala pa ng'anda	3.83	F	0
+4	04-200917-142312_bem_346_elicit_0.wav	mumilimo twange tumfwane	3.11	F	0
+4	04-201008-151412_bem_40e_elicit_1.wav	bamona aleipula ifyumbu alefipoosa cimocimo pa menshi alelanda na mashiwi ati	7.71	F	0
+4	04-200916-223805_bem_346_elicit_8.wav	nabambi baba ba kafundisha	2.16	F	0
+4	04-201009-122744_bem_40e_elicit_5.wav	umo aleya kwati te kasuba ku kubuta kwa cangelo ca lampi wakwe	6.94	F	0
+4	04-200917-143010_bem_346_elicit_46.wav	icisungu calicindamapo kuno	3.15	F	0
+4	04-201005-212919_bem_40e_elicit_18.wav	mulenga ashipwa fye ukupepa e pa kweba abantu ati	5.4	F	0
+4	04-200914-215547_bem_346_elicit_17.wav	elo nalakulanga ifyakulemba ishina lyobe	4.88	F	0
+4	04-201008-151412_bem_40e_elicit_11.wav	conse ico mulenga alomba kuli lesa wakwe kalambo alacimona	5.58	F	0
+4	04-200914-215547_bem_346_elicit_10.wav	umwanakashi umusuma loveness	3.27	F	0
+4	04-200917-201407_bem_346_elicit_21.wav	konkoko pa 'cibi'	2.16	F	0
+4	04-200916-223805_bem_346_elicit_12.wav	nomba pampela balaisalila abene pa lwabo	4.31	F	0
+4	04-201005-212105_bem_40e_elicit_4.wav	nomba ico akoseshe umulilo iwa ku mwinshi ashininkisha ukuti kwena umwinshi wacibela pa ncende ine iyo	11.32	F	0
+4	04-201009-110017_bem_40e_elicit_0.wav	mulenga pali musonda we tandwe	5.35	F	0
+4	04-200917-201407_bem_346_elicit_5.wav	nomba ngatawishibe ishina lyabo kwipusha	3.77	F	0
+4	04-201005-212919_bem_40e_elicit_2.wav	bakalima manika tabali bantu batali bali kwati tuntele mafwasa lelo bena balilepeleko cinono	9.8	F	0
+4	04-201009-110829_bem_40e_elicit_19.wav	lelo kwena mulenga acita ifyakucusha abantu iyoo acita ifyakubawamina fyeka	9.26	F	0
+4	04-200917-143010_bem_346_elicit_14.wav	abana ba giledi one balanda abakupitamo	4.27	F	0
+4	04-201009-122744_bem_40e_elicit_13.wav	mulenga lekeni ukulya katapa mapipo ya bana ubowa nabo matwi ya bafwa	7.01	F	0
+4	04-201005-204642_bem_40e_elicit_6.wav	kanshi imilandu ii yonse ku mano yandi yalenangulusha pa kumona abaleshimika bali abakote nati ikalabwa nga bafwa	12.18	F	0
+4	04-201005-211232_bem_40e_elicit_17.wav	cali ca nsoni kuli mulenga pa kulasendama inanda imo na banyina na nkashi yakwe	7.62	F	0
+4	04-201008-153522_bem_40e_elicit_19.wav	mulenga nao eko aba nomba tabela mu musango ulya abelelemo acili mu bumi iyoo kabili namumfwa kale ukuti alifwile ilyo bamwipeye	15.77	F	0
+4	04-200917-142312_bem_346_elicit_36.wav	namwishiba afwile aishiba ukulanda bwino icisungu pantu emutundu wasuminishiwa	5.94	F	0
+4	04-201005-205341_bem_40e_elicit_14.wav	mulenga ali ni shimapepo wa milungu ya lubemba alekuule mfuba mu fipooma na mu mpili shimoshimo umwali ncengo kwati fimayanda	14.77	F	0
+4	04-200917-202808_bem_346_elicit_1.wav	balandile ati nga pa ng'anda mfwile ukulaeshako ukulanda naena	5.79	F	0
+4	04-201009-122744_bem_40e_elicit_38.wav	inama shafwile ifi fine umuku wa cibili mu mwaka inkondo ya nineteen fourteen yapwile mu nineteen eighteen	8.89	F	0
+4	04-201005-211232_bem_40e_elicit_13.wav	bayasanga e bushiku bacimfishe abayeke	4.4	F	0
+4	04-201005-211232_bem_40e_elicit_14.wav	abantu bonse e pa kwishiba ukuti mulenga ni shimapepo winewine	5.24	F	0
+4	04-200916-232135_bem_346_elicit_15.wav	awe calyafya fye sana nganshi	3.68	F	0
+4	04-201009-122744_bem_40e_elicit_29.wav	shalaenda fye panonopanono	2.63	F	0
+4	04-201008-154234_bem_40e_elicit_19.wav	pa kuya ulya mulumendo bamona fye uko aimye lampi baluba noko aya	7.06	F	0
+4	04-200917-143010_bem_346_elicit_35.wav	namusanguka abasungu nomba	2.4	F	0
+4	04-200916-223805_bem_346_elicit_45.wav	batata tabatutwelepo ku mushi lintu twalekula	3.79	F	0
+4	04-200914-220511_bem_346_elicit_0.wav	twebeko efyo wacitile munshita yama holide	4.56	F	0
+4	04-201008-153522_bem_40e_elicit_16.wav	kwena nangu umuntu akane shani aicusha fye	4.4	F	0
+4	04-201009-122744_bem_40e_elicit_0.wav	abantu balya inama shakwa mulenga	3.24	F	0
+4	04-200917-142312_bem_346_elicit_23.wav	kanshi iseni tusangeko fimbi nefyo mwaingabelengako	3.7	F	0
+4	04-201005-204642_bem_40e_elicit_9.wav	nine daniel chola musatwe	3.24	F	0
+4	04-200914-220511_bem_346_elicit_25.wav	elo alecemafye imbushi ne ng'ombe yonse holide	3.74	F	0
+4	04-200917-142312_bem_346_elicit_2.wav	mumilimo twange tumfwane	2.4	F	0
+4	04-200914-220511_bem_346_elicit_48.wav	kuti twaya ku ng'anda pakupwisha	2.88	F	0
+4	04-200916-223805_bem_346_elicit_17.wav	iwe toloka e	2.31	F	0
+4	04-200914-215547_bem_346_elicit_49.wav	nomba mulishinonshiku nangu lintu ulendela muli basi	6.1	F	0
+4	04-201005-204642_bem_40e_elicit_19.wav	apafumine ukuti mulenga akulye	4.02	F	0
+4	04-201005-213708_bem_40e_elicit_5.wav	imfumu nayo pe fye yaletuma abantu ku kulomba imbuto sha kulima kuli mulenga	7.35	F	0
+4	04-201005-212919_bem_40e_elicit_4.wav	kanshi e calengele balelima mu manika balebyala fye umumbu wekaweka	9.8	F	0
+4	04-201008-153522_bem_40e_elicit_6.wav	kanshi mulenga ilyo afwile ilyo bamwipeye alifumine my cipande ca fimoneka aba mu cipande ca fishimoneka	8.64	F	0
+4	04-201005-205341_bem_40e_elicit_8.wav	akonkeshapo konkola nao wine balemwitilako abati nkankola	8.96	F	0
+4	04-200914-215547_bem_346_elicit_39.wav	apa tulekula abab abana bakeshiba efyo abakulu efyo bacitile	7.42	F	0
+4	04-201008-151412_bem_40e_elicit_34.wav	bushica fye ulucelo abebukisha ku mafunde abebele icungulo baima ne lino lya nsofu ne yombe shibili	10.69	F	0
+4	04-201008-151412_bem_40e_elicit_28.wav	ilyo bamutuula umulandu abeba ati mulelala kuno kwine tukayapepa mailo	9.23	F	0
+4	04-200917-142312_bem_346_elicit_11.wav	panuma ya ifi cilamuntu alaimba umo umo	3.38	F	0
+4	04-200917-202808_bem_346_elicit_19.wav	ingileni ba geledi one b	2.56	F	0
+4	04-200917-143010_bem_346_elicit_10.wav	awe nshalembelefye mailo	2.4	F	0
+4	04-200916-232841_bem_346_elicit_24.wav	nomba munshita yakulekelesha ndalolekesha muma buku yakwe talecita bwino bwino	7.37	F	0
+4	04-201005-205341_bem_40e_elicit_16.wav	alepepela na mu ncengo mu kufwaila abantu umutende	5.45	F	0
+4	04-201008-155438_bem_40e_elicit_14.wav	basuka bafuma ku nama baya ku bantu umo ati mayo abantu ifyo banyantawilile fwaka mu ciputu	9.37	F	0
+4	04-200916-232841_bem_346_elicit_20.wav	nangu acili alekwatako ubwafya ne cisungu	3.52	F	0
+4	04-201009-110017_bem_40e_elicit_23.wav	cabu ati ngefi fili mu menshi bushe te nsalu ishi	4.67	F	0
+4	04-201008-153522_bem_40e_elicit_12.wav	umungeli raphael amonekele tobi no mungeli gabriel amonekele mama maria	7.19	F	0
+4	04-201005-205341_bem_40e_elicit_12.wav	pantu munomwesu mu lubemba caba kwati cishilano icakukanaitilwa kuli kasuli	8.76	F	0
+4	04-201005-211232_bem_40e_elicit_0.wav	bonse bawa panshi batoota	5.01	F	0
+4	04-200914-220511_bem_346_elicit_17.wav	walecema imbushi ne ng'ombe	2.31	F	0
+4	04-200916-223805_bem_346_elicit_18.wav	eya ndefwaya iwe wimbe 'tuletoloka'	4.08	F	0
+4	04-201005-212105_bem_40e_elicit_16.wav	we lesa we wamaka ayengi	2.47	F	0
+4	04-201008-160002_bem_40e_elicit_0.wav	umuntu asendwa na mulenga	2.97	F	0
+4	04-201009-110017_bem_40e_elicit_12.wav	uwalengelapo amona panshi palepita insofu imitumba ya nsalu inkunda na fimbipo	8.78	F	0
+4	04-201005-205341_bem_40e_elicit_13.wav	bonse aba balikwete imilimo balebomba mu lubemba	4.95	F	0
+4	04-201008-155010_bem_40e_elicit_13.wav	limbi umwana nga afyalwa nomba aisatampa ukulila alalilisha nganshi	6.97	F	0
+4	04-201009-110829_bem_40e_elicit_8.wav	umuntu nga afwa ne sambi likalamba mu mutima takapokelelwe mu mulu akapokelelwa na shetani ciwa	9.64	F	0
+4	04-200916-232620_bem_346_elicit_11.wav	elo amenso na matwi na kalefu lefu no mona	5.06	F	0
+4	04-201009-110017_bem_40e_elicit_34.wav	baeba cibuye abati kabiye mona umubiyo nafwa uyu wamona mupashi wakwe fye	7.44	F	0
+4	04-201008-160002_bem_40e_elicit_20.wav	ifi efyo mulenga asenda abantu	2.84	F	0
+4	04-201008-154234_bem_40e_elicit_16.wav	bapunamina mu mutenge bamona insonta muntu bashikakile	7.65	F	0
+4	04-201008-153522_bem_40e_elicit_27.wav	wena nangu aingile mu senaculo ukupitila pa kapunda ilyo amonekele abasole bakwe mu ng'anda lelo wena alekatwa	12.93	F	0
+4	04-201008-155438_bem_40e_elicit_11.wav	umbi nao palya ati ala mayo ine bakolwe kuti nga nabalya inyanje cabulanda kuti wikete fye amaboko mu mukoshi	11.37	F	0
+4	04-200917-202808_bem_346_elicit_18.wav	irene musende	2.16	F	0
+4	04-200914-215547_bem_346_elicit_43.wav	ukufuma kukale ukufika kuntanshi uko kuntu tuleya	5.08	F	0
+4	04-201009-122744_bem_40e_elicit_23.wav	kuti nga alilosha ulubuuto ku kabanga	4.24	F	0
+4	04-200917-142312_bem_346_elicit_39.wav	eya kanshi umo alande cimo cintu ico atemenwemo muli iyi temu yamasambililo	8.39	F	0
+4	04-201005-211232_bem_40e_elicit_21.wav	apamfiwa sana ukuti amone mukati	3.24	F	0
+4	04-200916-223805_bem_346_elicit_28.wav	ngataukwete amabuku taufwile waisa ku sukulu	3.63	F	0
+4	04-201005-204642_bem_40e_elicit_15.wav	ifyenda mulenga mu mpanga	3.22	F	0
+4	04-201012-174116_bmy_47d_elicit_24.wav	ilyo icalo catalala kaoma na konkola babwelela ku mulimo wabo uwa kwipika umwafi	8.35	F	0
+4	04-201009-110829_bem_40e_elicit_28.wav	kaino wena wishi ni adam nyina ni eva	4.06	F	0
+4	04-201008-160002_bem_40e_elicit_15.wav	umuntu nga asendwa na mulenga wa mpanga teti apose cintu asendele kuti aleendauka fye naco nelyo lukuni	8.51	F	0
+4	04-200914-215055_bem_346_elicit_15.wav	elo kuti mwaposhako abali ku ng'anda ukufuma kuli ine	4.58	F	0
+4	04-201005-204642_bem_40e_elicit_3.wav	lelo ine calenkalipa sana pa kumfwa ifyo ukulanda kwabo takwalelembwa	7.44	F	0
+4	04-201005-204642_bem_40e_elicit_12.wav	mulenga apususha abantu mu buta	3.7	F	0
+4	04-201008-151412_bem_40e_elicit_12.wav	ilyashi lilya lyasuka lyafika na ku matwi ya mfumu lubemba	5.49	F	0
+4	04-200916-223805_bem_346_elicit_44.wav	elo ndefwaya ukumona ama buku ino ine nshita	3.77	F	0
+4	04-201008-155438_bem_40e_elicit_13.wav	umukote mukutila abalye alefwaya bafwe bwangu nge fyatwile nama shakwa mulenga ku cele	10.66	F	0
+4	04-200914-220511_bem_346_elicit_14.wav	bebeko waile kwisa	2.13	F	0
+4	04-201005-212919_bem_40e_elicit_21.wav	abantu batoota babwelelamo	3.24	F	0
+4	04-200917-143010_bem_346_elicit_26.wav	amalangi ya alufabeti	3.04	F	0
+4	04-200917-143010_bem_346_elicit_41.wav	nalamishitilako nama switi	2.95	F	0
+4	04-201005-212105_bem_40e_elicit_21.wav	kabili asha apepapo caisala icine aya na ku mutanda ukwashala banyina na nkashi yakwe	8.92	F	0
+4	04-200917-202808_bem_346_elicit_16.wav	cinshi calubana cinshi ulelilila	2.99	F	0
+4	04-201008-151412_bem_40e_elicit_33.wav	kanshi umuntu nga nalwala munda akashale pamo no wa congo no wa mulengulula no muloshi	10.73	F	0
+4	04-201009-122744_bem_40e_elicit_31.wav	aendauka ne lampi imilundu yonse uku no ku	3.06	F	0
+4	04-201008-154234_bem_40e_elicit_12.wav	afwele ne nsalu iyabuuta tuutu	3.04	F	0
+4	04-201005-212105_bem_40e_elicit_10.wav	kanshi ici cintu nani aisafukula	3.06	F	0
+4	04-201009-110017_bem_40e_elicit_32.wav	bamona fye cabu aleluka	3.47	F	0
+4	04-201009-110017_bem_40e_elicit_30.wav	umubiye aya na ku mushi kwa mulambi amushimikila no mulandu	7.4	F	0
+4	04-201009-122744_bem_40e_elicit_36.wav	pa kusumbulwila shilya nama abantu balebalilapo ukutoota baletootela mulenga abati	8.53	F	0
+4	04-200916-223805_bem_346_elicit_42.wav	nomba kabiye kasende ama buku ya ku sukulu	3.13	F	0
+4	04-201005-205341_bem_40e_elicit_17.wav	mwenya batemwanene sana na kasuli wabo mulenga	4.04	F	0
+4	04-200916-232620_bem_346_elicit_12.wav	umutwe na mapeya amakufi no tukondo	3.06	F	0
+4	04-201005-211232_bem_40e_elicit_10.wav	bambi nabo abati ne lino lya nsofu line lilya babikile mukati ka cilucengo	9.53	F	0
+4	04-200916-223805_bem_346_elicit_10.wav	pantu lilya umwana nga akula afwile aba uwakusala efyo alefwaya ukucita	6.51	F	0
+4	04-201005-212919_bem_40e_elicit_24.wav	nao ali muli lulya lubuli lwa kulwisha bakalimamalungu	6.01	F	0
+4	04-201009-110829_bem_40e_elicit_20.wav	mateo ico aumfwile mu kufundwa uko umupatili afundile ati kaino mwana adam aipeye umwaice wakwe abeli ico amufimbile pa kuwamya kwakwe	14.79	F	0
+4	04-201008-155438_bem_40e_elicit_20.wav	nomba kalilala kalingila aka kamulapisho ka kwa mulenga akulye	6.51	F	0
+4	04-201009-122744_bem_40e_elicit_18.wav	uwakulalya katapa no bowa alefwa nafyo mu kanwa	5.08	F	0
+4	04-201009-110829_bem_40e_elicit_14.wav	moneni mwe bana mulungu alyashime malaika gabriel umubili usuma pakuti ese muno calo balande na maria	9.12	F	0
+4	04-201008-160002_bem_40e_elicit_3.wav	basalanganina mu mpanga balanukula baisusha ne miseke	6.65	F	0
+4	04-201008-155010_bem_40e_elicit_5.wav	ngefi acisa lelo mutile engile mwa mama umwaciba banoko mwaice ne fumo	7.42	F	0
+4	04-201005-213708_bem_40e_elicit_11.wav	kankabebe lyena bakacila ukuntemwa	4.24	F	0
+4	04-201009-110017_bem_40e_elicit_20.wav	ilyo bafikile palya basangile mwine mushi mulambi napepapo nacanduluka	8.53	F	0
+4	04-200916-232620_bem_346_elicit_0.wav	twacilya	2.4	F	0
+4	04-201008-151412_bem_40e_elicit_8.wav	baumfwana no kuti bakakukile kulya kwine ku mutanda	4.76	F	0
+4	04-200917-142312_bem_346_elicit_25.wav	iwe fwaya pambi apakubelenga ili ibula apa	3.52	F	0
+4	04-200914-215547_bem_346_elicit_19.wav	awe teifyo efyo ufwile ukuilemba	3.99	F	0
+4	04-200917-142312_bem_346_elicit_44.wav	steward wi ikalefye ulelya ama bisiketi	3.38	F	0
+4	04-200916-232135_bem_346_elicit_4.wav	mwatusheni mukwai	2.22	F	0
+4	04-201012-174116_bmy_47d_elicit_22.wav	balemutwalila ubwalwa ne filyo fimbi nao alefyoca no kufituula ku mipashi fimbi alelya	10.44	F	0
+4	04-201009-110829_bem_40e_elicit_0.wav	abakalamba abati kanshi epo wishibile ukuti te muntu mumi tekatwa na kwikatwa kabili talya iyoo pantu ciwa	13.32	F	0
+4	04-201012-174116_bmy_47d_elicit_4.wav	bakolwe mumomumo eco bashifumina mu mishitu pantu balasangamo utumumbu	8.46	F	0
+4	04-201008-151412_bem_40e_elicit_32.wav	kabili takuli kunya mu nika umo nga cite fi tukaluba tatwakalondoke tukafwila bonse mu mpanga	11.14	F	0
+4	04-200917-143010_bem_346_elicit_7.wav	awe bushe pensulo yandi ilikwisa	3.29	F	0
+4	04-201012-174116_bmy_47d_elicit_12.wav	mulenga apepele umwingi nganshi apepele pa chishimba musondawetandwe malunda mpalapata musakanya na shimbipo	12.71	F	0
+4	04-201009-110829_bem_40e_elicit_3.wav	iciwa cilya ne fibiye fyalakonka akaoma panuma	5.49	F	0
+4	04-201009-110829_bem_40e_elicit_9.wav	no kupalana bakapalana nao ukumfwa umusuma akapokelelwa na lesa akalatuusha no kusansamuka muli lesa imfumu yesu'	10.44	F	0
+4	04-201008-154234_bem_40e_elicit_4.wav	abaice abo balicilile pa ciimo ca mabutamputi bali ni bakalume bakwikalila amakombo pa nsaka	11.66	F	0
+4	04-200917-142312_bem_346_elicit_4.wav	mushili wamilimo twange	2.06	F	0
+4	04-201005-213708_bem_40e_elicit_16.wav	insala nayo elyo yacila	2.7	F	0
+4	04-201009-110829_bem_40e_elicit_25.wav	umfwa bwino kaino bamulapishe umumi talapishiwe ilyo afwile elyo atumwe ku ciwa mu kwisalapishiwa iyoo	11.73	F	0
+4	04-200914-220511_bem_346_elicit_39.wav	bushe mulemona efyo ndelemba	2.63	F	0
+4	04-200916-232620_bem_346_elicit_8.wav	ummukashana musuma	3.38	F	0
+4	04-201005-212919_bem_40e_elicit_14.wav	abapuswikeko e bailekuta kuli chitimukulu abati	6.35	F	0
+4	04-201005-212919_bem_40e_elicit_3.wav	balelya utumpolyo ne nsasa ne mishila ya miti imoimo	6.6	F	0
+4	04-201005-205341_bem_40e_elicit_15.wav	alepepela mu fipooma mu kufwaila abantu babo ukuti balecimfya mu buta	9.12	F	0
+4	04-200917-142312_bem_346_elicit_49.wav	caawama wasambililako pali sayansi	3.15	F	0
+4	04-201008-153522_bem_40e_elicit_23.wav	nomba ulya mubili akene uwa bulungulwa e ulya waba na mulenga wa mpanga	7.58	F	0
+4	04-201005-213708_bem_40e_elicit_4.wav	eico panuma ya bulwi insala yalepona ikali	5.08	F	0
+4	04-201009-110017_bem_40e_elicit_16.wav	kabili tacandalalapo balemoneka bacisha ifyo fine kano ukwanduluka kwena balamonako	10.57	F	0
+4	04-200916-223805_bem_346_elicit_5.wav	kuli ine ngacakuti cibe ukuba kubana bandi	4.08	F	0
+4	04-201005-212105_bem_40e_elicit_18.wav	injembebe ukuti mpanga shonse eko waba	3.83	F	0
+4	04-200914-215547_bem_346_elicit_24.wav	elo nefyo walemba	2.4	F	0
+4	04-201008-153522_bem_40e_elicit_2.wav	fimo bayabyala fimbi balalya	3.22	F	0
+4	04-201008-160002_bem_40e_elicit_5.wav	amano ya anafkuti abanandi bansha tamuli ena ati ndekonka abanandi panuma alakonka na mulenga panuma	8.55	F	0
+4	04-200917-143010_bem_346_elicit_48.wav	casuminisihsa ukuti bomfwane umo naumo	4.08	F	0
+4	04-201008-155010_bem_40e_elicit_0.wav	apafumine ukwinika ishina lya mulenga	3.72	F	0
+4	04-201009-110829_bem_40e_elicit_21.wav	mulungu amulapishe ukwendauka mpanga yonse	4.9	F	0
+4	04-200914-220511_bem_346_elicit_13.wav	umunobe kuno aliya ku holide	2.86	F	0
+4	04-200916-232135_bem_346_elicit_13.wav	nomba lintu batampa isukulu	2.4	F	0
+4	04-201008-160002_bem_40e_elicit_9.wav	lyena ailuka no kwiluka ukuti naluba	4.31	F	0
+4	04-201008-155438_bem_40e_elicit_17.wav	alafula ati we ulile cikanda niwe ani	3.72	F	0
+4	04-201009-110017_bem_40e_elicit_28.wav	cabu ati kutumpa fye balungu	3.7	F	0
+4	04-201009-110829_bem_40e_elicit_4.wav	kanshi nafyo fyali bantu	2.18	F	0
+4	04-200914-215055_bem_346_elicit_12.wav	walalya pa kwinuka	2.2	F	0
+4	04-201008-154234_bem_40e_elicit_22.wav	cali ni mu mwaka nineteen thirty	3.06	F	0
+4	04-201009-110017_bem_40e_elicit_27.wav	ngefyo abenecalo bashafibula afiba fyuma finefine	5.67	F	0
+4	04-201008-155010_bem_40e_elicit_15.wav	nakulu kuti abeba ukuti alelila ishina e pa kuya ku nanga iyebuke shina	7.94	F	0
+4	04-200916-232135_bem_346_elicit_5.wav	nga tulefwaya ukuya panse twalesambilila ukulanda ati	3.99	F	0
+4	04-200916-232135_bem_346_elicit_6.wav	napapata bakafundisha mukwai kuti nafumako mumuputule	4.99	F	0
+4	04-201005-212919_bem_40e_elicit_8.wav	pantu nga cakuti ayansha abayeke kuti balunda pa fita fyakwe aisalwisha na fwe babemba bene	10.55	F	0
+4	04-201008-153522_bem_40e_elicit_21.wav	asosele ifi ilyo alemonekela abasole bakwe ilyo ashukwike abebele no kuti bamwikate pakuti bashininkishe ukuti ena ali no mubili wa bumuntu	13.93	F	0
+4	04-200916-232135_bem_346_elicit_12.wav	abengi abana abesa kuno ba soli	3.09	F	0
+4	04-201008-160002_bem_40e_elicit_17.wav	eko abantu bafumine abamutwele ku mushi kumwabo e bamupokelaka no museke wa bowa	8.19	F	0
+4	04-200917-142312_bem_346_elicit_34.wav	nomba tuletontonkanya ati tumubwekeshefye geledi wanu mumwaka uyu uleisa	5.72	F	0
+4	04-200916-232841_bem_346_elicit_22.wav	nimbona ati aleyafye pa ntanshi muli fimbi fintu	4.31	F	0
+4	04-201005-212105_bem_40e_elicit_5.wav	elyo ati cisuma kandale fino fine mailo ulucelo nkesha inshila shimbi mpaka nkafume	9.69	F	0
+4	04-200914-215055_bem_346_elicit_8.wav	balebulilwa ukukwata amasambililo mu muyundu wabo abene	6.62	F	0
+4	04-200916-232135_bem_346_elicit_21.wav	ufwile watampa ukulanda	2.04	F	0
+4	04-201009-110829_bem_40e_elicit_17.wav	nomba mulenga wena tatwaishiba nga ciwa atemwa mwina lesa pantu tasosa ukuti ntuminwe kuli lesa atemwa ntuminwe kuli ciwa	10.91	F	0
+4	04-201008-154234_bem_40e_elicit_18.wav	ukumwishiba nako tabamwishibe nangu ukumwelenganya ku muntu umo uo bamona lyoo	8.62	F	0
+4	04-201008-153522_bem_40e_elicit_7.wav	lelo e mu cipande ca filya ifimoneka limolimo kabili ukumonekela umoumo	6.94	F	0
+4	04-201008-153522_bem_40e_elicit_13.wav	kanshi aba bangeli baletulanga ukuti ifishimoneka fyaba pabili	6.74	F	0
+4	04-200914-215055_bem_346_elicit_5.wav	ukufika pali fifty	2.31	F	0
+4	04-200916-232841_bem_346_elicit_4.wav	nomba apa nangu ni pa sukulu lintu bakafundisha balenda mu cisungu nangu icili conse	5.65	F	0
+4	04-201005-213708_bem_40e_elicit_19.wav	imfumu yafulwa nganshi yatuma abakuyaipaya mulenga	5.04	F	0
+4	04-201005-212105_bem_40e_elicit_22.wav	lyonse ilyo ali mukati umutima wakwe wali fye pa mulu aleti nalimo nshakafumemo nkafwila muno mwine	8.62	F	0
+4	04-201005-211232_bem_40e_elicit_19.wav	ashinguluka ulu lupili asuka amona umwinshi kwati ni yanda	6.51	F	0
+4	04-201005-205341_bem_40e_elicit_19.wav	talekula mfuba iyo aleoca fye ifiita	5.58	F	0
+4	04-201008-151412_bem_40e_elicit_20.wav	imfumu aiti cisuma kanshi mailo nkamupa abantu mukaye nabo kuli munyinane mwamba wa milungu	10.48	F	0
+4	04-201005-212105_bem_40e_elicit_25.wav	ilyo afika ku mutanda aeba nyina nakaoma na nkashi yakwe ifyo amwene ifyo apepele nefyo acisendama	10.44	F	0
+4	04-200916-223805_bem_346_elicit_25.wav	amabuku yali kumwabo bamayo senge	4.11	F	0
+4	04-201005-204642_bem_40e_elicit_5.wav	e kutila baletunganya kaino mwana adam	5.72	F	0
+4	04-200914-220511_bem_346_elicit_30.wav	ukwabula ukusambilila mu mitundu imbi	3.58	F	0
+4	04-201008-155010_bem_40e_elicit_8.wav	pamo pene ngo muntu umo mu lupwa iwabo nga afwa asha umo uwa mu lupwa ali ne fumo	7.26	F	0
+4	04-200917-143010_bem_346_elicit_11.wav	naba kafundisha tabakumwene	2.52	F	0
+4	04-201009-122744_bem_40e_elicit_19.wav	palya abantu balaitila katapa no bowa	2.81	F	0
+4	04-201009-110017_bem_40e_elicit_35.wav	nkamushimikila na fimbi kuntanshi	4.24	F	0
+4	04-201005-211232_bem_40e_elicit_2.wav	alapunda ati mulungu we lesa wa pano we wamaka yonse twakupapata fwe bantu bobe tupele amaka ya kwansha abalwani besu	14.02	F	0
+4	04-200916-232135_bem_346_elicit_9.wav	kwati ngabalanda ati 'imakaneni'	2.86	F	0
+4	04-200917-143010_bem_346_elicit_5.wav	kubana bamu zambia mucitungu ca kukulyo mu aflika	5.69	F	0
+4	04-201012-174116_bmy_47d_elicit_21.wav	impanga yena lyonse balecita imo	3.24	F	0
+4	04-201009-110017_bem_40e_elicit_9.wav	ati epakuti abantu bakabweleko umutende bonse kwikayafwila nelyo umo	8.64	F	0
+4	04-201009-110017_bem_40e_elicit_15.wav	na nombaline muli iyi nika kuti wayasanga ulufuba no mwala wa nsalu iyakashika mukati ka lufuba	10.69	F	0
+4	04-201005-212105_bem_40e_elicit_13.wav	kanshi ulya lesa taba palya pene peka iyoo aba mpanga yonse	5.76	F	0
+4	04-201005-211232_bem_40e_elicit_7.wav	abantu bwangu bwangu baipaya ing'ombe baoca balalya no kulya	6.33	F	0
+4	04-201008-155438_bem_40e_elicit_16.wav	bashima fye ukuya ku kulala umunabo umo ayasanga abaice nabalya cikanda ilyo bali balesowa bakwindi	11.5	F	0
+4	04-200914-220511_bem_346_elicit_16.wav	nalecema imbushi ne ng'ombe	2.88	F	0
+4	04-201005-204642_bem_40e_elicit_2.wav	lelo pa kushimika tabalelondolola ukuti imilandu ya kuti yalola kuli mulenga ne ya musango uyu nayo yalola kuli nakaoma	12.18	F	0
+4	04-200917-143010_bem_346_elicit_36.wav	nibanani abaishiba ukushimika akashimi muci soli	4.81	F	0
+4	04-201008-154234_bem_40e_elicit_1.wav	mulenga mutandashi musuma ilyo uyu mulumendo atandalila abantu taya mu kubacusha	7.67	F	0
+4	04-201005-212105_bem_40e_elicit_14.wav	kanshi kamupepe alenjiswila	3.29	F	0
+4	04-200916-223805_bem_346_elicit_4.wav	aya mapela yobe te	2.38	F	0
+4	04-200917-142312_bem_346_elicit_35.wav	icilengeshe ati mfwaye ukumubweshako umo umwaka cakuti akabe uwakwishiba ukulanda bwino icisungu	7.35	F	0
+4	04-201009-122744_bem_40e_elicit_6.wav	ala kuti nabwalya palya afonkomene mu mputa aleswa katapa	5.76	F	0
+4	04-201005-212919_bem_40e_elicit_6.wav	uyu mukote ishina lyakwe ni shamungole	4.38	F	0
+4	04-201008-151412_bem_40e_elicit_24.wav	apaala ilino lya nsofu amate pamo ne yombe shine	5.63	F	0
+4	04-201005-205341_bem_40e_elicit_27.wav	abantu nabo balemwita mucinshimucinshi baletila ba mulenga mukulu	6.65	F	0
+4	04-201009-110017_bem_40e_elicit_22.wav	umubiye ati cuma tulungeme nga finshi fimbi	5.22	F	0
+4	04-201009-110017_bem_40e_elicit_10.wav	ici cishiba cena cayandalilwa ne fyani mpanga yonse pakati kuti e pashala fye utumenshi kwati ni mulamba	11.14	F	0
+4	04-200916-232620_bem_346_elicit_14.wav	wacita bwino wacita bwino umwana umusuma	3.24	F	0
+4	04-201009-110829_bem_40e_elicit_7.wav	ambatishe ne shina lya cesefu atufundile ati	5.15	F	0
+4	04-201005-212105_bem_40e_elicit_7.wav	aya pa mulilo wakwe alaonta apona na mu tulo alala	5.51	F	0
+4	04-200917-201407_bem_346_elicit_18.wav	eya iwe iredi  ninshi taukonkoseshe	3.74	F	0
+4	04-201008-153522_bem_40e_elicit_11.wav	abangeli tabamoneka lelo limolimo balamoneka	4.33	F	0
+4	04-200917-201407_bem_346_elicit_7.wav	elyo nabena bala asuka waumfwa	3.09	F	0
+4	04-200914-215547_bem_346_elicit_29.wav	nshilecetekela ati iwe ulekola icikolekole	4.65	F	0
+4	04-201008-154234_bem_40e_elicit_25.wav	akoshapo umulilo alaonta	2.86	F	0
+4	04-201008-151412_bem_40e_elicit_9.wav	no bushe ilyo babwelela ku mushi bayashimikila abanabo ifyo mulenga alima	6.81	F	0
+4	04-200914-220511_bem_346_elicit_28.wav	nga catuti abana balesambilila muci soli	4.4	F	0
+4	04-200917-202808_bem_346_elicit_20.wav	ehe kabiyeni elo mwikale	2.61	F	0
+4	04-200914-220511_bem_346_elicit_40.wav	ishina lwandi ni mulenga	2.7	F	0
+4	04-201009-110829_bem_40e_elicit_12.wav	kanshi umuntu nga alifwa abwela mu calo alecusha abantu mwishibe ukuti umubili alecushishako abantu ashime kuli shikulu wakwe ciwa	11.53	F	0
+4	04-201005-211232_bem_40e_elicit_8.wav	mulenga abeba no kushinga imito bocelepo inama pa mpumi e kukanalaba imfumu ya mpande pa mpumi	9.55	F	0
+4	04-201005-205341_bem_40e_elicit_25.wav	wishi wena ico ashakwete milimo ineine io alebomba eco takokwele kulabwa neco afwile abana bacili abaice	13.23	F	0
+4	04-201008-153522_bem_40e_elicit_9.wav	balabika sana ifikansa umuntu nga asosa ati nimona cakuti	7.26	F	0
+4	04-201008-155010_bem_40e_elicit_18.wav	no wakonka bampundu nao tamubwelela mupashi no kubukwa tabukwa bamwita fye chola	9.3	F	0
+4	04-200917-142312_bem_346_elicit_10.wav	bakafundisha uyu taleimba	2.59	F	0
+4	04-201009-110017_bem_40e_elicit_13.wav	fyonse ifi kuti filepikauka mukati ka menshi	4.83	F	0
+4	04-200914-215547_bem_346_elicit_40.wav	ifwe tukakula nokukota	3.38	F	0
+4	04-200917-143010_bem_346_elicit_6.wav	mucaalo ici ulumi lwasuminishiwa cisungu	3.58	F	0
+4	04-200917-201407_bem_346_elicit_1.wav	kanshi kwambilapo na 'shani'	3.15	F	0
+4	04-200916-223805_bem_346_elicit_22.wav	eya abalumendo na bakashana basuma ikaleni nomba	4.22	F	0
+4	04-201009-110017_bem_40e_elicit_25.wav	cabu natwabule tubwelelemo kumwesu	4.95	F	0
+4	04-200914-215547_bem_346_elicit_38.wav	elo tailelubwa kaili ulekulilakofye	4.65	F	0
+4	04-200914-220511_bem_346_elicit_41.wav	ndefwaya mulembe nobusaka	3.38	F	0
+4	04-201012-174116_bmy_47d_elicit_15.wav	naipwishe ishina lya lupili uyu shamungole atile balilesha bashimapepo wa lubemba ne ngulu ukulumbula umwaba ici cintu caka nge lampi	14.7	F	0
+4	04-200916-223805_bem_346_elicit_29.wav	lintu nacikonkomesha nacimusanga aleangala pa ng'anda	5.49	F	0
+4	04-201005-213708_bem_40e_elicit_3.wav	imfumu na bantu baleponenwa pe ne nsala pantu inshita ishingi tabalelima balebakilwa ku kulwa	10.78	F	0
+4	04-201009-110017_bem_40e_elicit_3.wav	natumfwa kale ukuti talepepela pa ncende imo iyoo kanshi natumfwe na pamo ifyo alecita	7.99	F	0
+4	04-200917-201407_bem_346_elicit_23.wav	landeni 'tweleleni bakafundisha natucelwa'	4.83	F	0
+4	04-200916-232841_bem_346_elicit_21.wav	nalicimona ici na lintu ndepita mu buku yakwe	5.22	F	0
+4	04-200914-215547_bem_346_elicit_27.wav	ufwile waikata pa kanwa	2.06	F	0
+4	04-201005-213708_bem_40e_elicit_0.wav	mulenga afwa	2.72	F	0
+4	04-201005-212105_bem_40e_elicit_24.wav	nomba abantu bena tabafisha ili shina bapelela pakutila chisha	6.94	F	0
+4	04-201009-110829_bem_40e_elicit_1.wav	mateo ati kanshi ifi fiwa mutushimikila mu nshimi ukuti	5.22	F	0
+4	04-201009-110017_bem_40e_elicit_33.wav	akonkele nsofu panuma ne mfuti ekete ku minwe ali kwati alelase nsofu	9.66	F	0
+4	04-200916-223805_bem_346_elicit_9.wav	nangu kuti basalako imisango ya ncito bacita	3.72	F	0
+4	04-201012-174116_bmy_47d_elicit_8.wav	abantu tabalefwaya kwikala nangu bacimbile kano fye baya kumbi	5.9	F	0
+4	04-200917-143010_bem_346_elicit_9.wav	nomba finshi wabomfeshe mailo	2.36	F	0
+4	04-201008-154234_bem_40e_elicit_27.wav	kapambwe afwampukila napo tulele	2.72	F	0
+4	04-201008-153522_bem_40e_elicit_22.wav	cinecine christu ena ali no mubili wa cinecine ulya bamushikile nao nomba wali usuma uwabeeka uwayanguka uucindami sana	12.93	F	0
+4	04-200916-232841_bem_346_elicit_5.wav	afwile acipalanya muci soli	2.2	F	0
+4	04-201005-211232_bem_40e_elicit_16.wav	nomba pa kuya ku kupepa balacita ifi nyina alesenda ifintu fye lambo mwenya ena inkuni sha kocelapo iciita	10.78	F	0
+4	04-201009-110017_bem_40e_elicit_24.wav	cibuye ee ni nsalu	3.04	F	0
+4	04-200914-215055_bem_346_elicit_14.wav	mwende bwino mwaumfwa ba geledi wanu	3.06	F	0
+4	04-201008-151412_bem_40e_elicit_18.wav	nalimo kuti nacimfya abalwani bandi	4.06	F	0
+4	04-201009-110829_bem_40e_elicit_27.wav	kanshi nomba mwamona abantu bamo batontonkanya kuti mulenga wa mpanga e kaino iyo mulenga wa mpanga ni mwana katayi wishi wena taishibikwa	11.64	F	0
+4	04-200914-220511_bem_346_elicit_44.wav	eico fyonse efyo ishina lyobe lili kuti waba ni henry nangu fyonse fyo	6.78	F	0
+4	04-201012-174116_bmy_47d_elicit_20.wav	ishamfumu shaleita mulenga konsekonse shalemutwalila ing'ombe she lambo ne mbushi ishingi	10.21	F	0
+4	04-201005-212105_bem_40e_elicit_0.wav	atemwa sana ati cawama nomba muno twakulasendama bwino	7.03	F	0
+4	04-200914-220511_bem_346_elicit_34.wav	kanshi kuti caawama ukusambilila	3.4	F	0
+4	04-200916-232135_bem_346_elicit_20.wav	kanshi ngawakumanya umuntu naumbi kwati umunobe filya	5.31	F	0
+4	04-201005-204642_bem_40e_elicit_13.wav	mulenga afwa	2.29	F	0
+4	04-200916-232135_bem_346_elicit_1.wav	ngakwafika niwebo geledi one	3.2	F	0
+4	04-201005-212105_bem_40e_elicit_3.wav	aesha ukufwayafwaya ukwacibelo mwinshi afilwa	5.72	F	0
+4	04-200917-142312_bem_346_elicit_29.wav	talefwaya nokulaya ku sukulu	2.4	F	0
+4	04-201005-212105_bem_40e_elicit_20.wav	ashipwa fye ukupepa ne cilibwe caisuka afumina na panse	4.95	F	0
+4	04-200916-232841_bem_346_elicit_8.wav	kanshi nga cakuti alile ayasambilila akasambilila mu cisungu	5.26	F	0
+4	04-201005-205341_bem_40e_elicit_0.wav	mulenga afuma kwi	2.54	F	0
+4	04-201008-153522_bem_40e_elicit_8.wav	aka kapande kaba akayafya ukusumina nako kuntu kwayafya	7.67	F	0
+4	04-200917-202808_bem_346_elicit_2.wav	ukumwafwako ukumfwikisha bwino ku sukulu	3.38	F	0
+4	04-200916-223805_bem_346_elicit_34.wav	napapata mwipusheko umunobe muci soli nga alintemwa	4.56	F	0
+4	04-200914-215547_bem_346_elicit_20.wav	ndefwaya usende ibuku lyobe ulembe ubushiku	4.65	F	0
+4	04-201008-151412_bem_40e_elicit_13.wav	yatuma abantu baisaita nyina kwa mulenga na nkashi yakwe pakuti bese basose bwino ifyo cali	8.6	F	0
+4	04-200914-215547_bem_346_elicit_45.wav	ukufika apa nombaline' icisoli tacaleumfwika mu zambia	6.08	F	0
+4	04-201005-213708_bem_40e_elicit_14.wav	imfula nao yakunta	2.54	F	0
+4	04-201008-154234_bem_40e_elicit_21.wav	nakulu kapembwa e mama na ine wine na ine wine emo nali fwe twishikulu twakwe emo twalelala	10.1	F	0
+4	04-200917-143010_bem_346_elicit_0.wav	mumonepo panshi apa pa ndimi ishi ishilipo	4.58	F	0
+4	04-200916-223805_bem_346_elicit_14.wav	nga ukutoloka cinshi	2.5	F	0
+4	04-201005-205341_bem_40e_elicit_7.wav	nao wine katayi lyalishikeme mu lyakwa kaoma alaitwa nakaoma	7.31	F	0
+4	04-200917-202142_bem_346_elicit_19.wav	ingileni ba geledi wanu b	2.56	F	0
+4	04-200917-142312_bem_346_elicit_28.wav	ici cobefye iwe kusepa na ici cesufye fweka	4.17	F	0
+4	04-201009-122744_bem_40e_elicit_14.wav	nabwalya ati yangu shikulu kanshi twakulatobela nshi	4.74	F	0
+4	04-200914-220511_bem_346_elicit_10.wav	caawama twebeko bwino nomba efyo walecita pama holide yobe	5.06	F	0
+4	04-201009-122744_bem_40e_elicit_12.wav	nabwalya ati mukwai ni katapa uwakuti tuyetobela ubwali pantu muno nshiku umunani te pa kubuula euku tulesaba fishipikisha fine ifi tulelya	13.98	F	0
+4	04-200914-215055_bem_346_elicit_16.wav	nomba kuti mwalanda 'shalenipo' kuli ine	3.61	F	0
+4	04-200916-223805_bem_346_elicit_21.wav	tuletoloka tuletoloka	2.56	F	0
+4	04-201009-122744_bem_40e_elicit_25.wav	shaikatwa no  butanshi	2.97	F	0
+4	04-200917-202142_bem_346_elicit_21.wav	uyu taya	2.04	F	0
+4	04-201005-213708_bem_40e_elicit_7.wav	pantu kuntanshi nga basanga tafimenene abantu bakapate mfumu shabo bakacite iwe imfumu	8.85	F	0
+4	04-201005-204642_bem_40e_elicit_11.wav	ifyo mulenga alepepa	2.7	F	0
+4	04-200914-215055_bem_346_elicit_6.wav	amanambala aikona alufabeti mwaumfwa	4.97	F	0
+4	04-201008-154234_bem_40e_elicit_10.wav	kuti cilya fye ilyashi lyafukila bamona ing'anda yabuuta tutu ku ilampi lilya ilyabumi ilyakwa mulenga	11.23	F	0
+4	04-201005-212105_bem_40e_elicit_11.wav	mwandi kuti aba ni ulya mulungu wa pa kalambo uwafukula na cilya cimuyenge acitapo icipooma	10.84	F	0
+4	04-200917-143010_bem_346_elicit_43.wav	twakwata indimi amakumi cine lubali nafili nangu fitatu	7.46	F	0
+4	04-201005-205341_bem_40e_elicit_9.wav	nkashi yabo ali ni mwenya	2.95	F	0
+4	04-200916-223805_bem_346_elicit_11.wav	iwe ngomufyashi kulasubilafye	3.45	F	0
+4	04-201008-151412_bem_40e_elicit_4.wav	umpokeko na ku fiswango fya muno mpanga	5.81	F	0
+4	04-200914-215547_bem_346_elicit_11.wav	steward isa kuno	2.65	F	0
+4	04-200914-220511_bem_346_elicit_43.wav	lelo bonse ifwe twalalemba amashina yesu	4.13	F	0
+4	04-200914-215547_bem_346_elicit_16.wav	elo walemba ishina lyobe kwati 'steward' mwaumfwa	5.4	F	0
+4	04-201009-122744_bem_40e_elicit_8.wav	ena alaelenganya ukuti nalimo imfula yalaisa	5.1	F	0
+4	04-201008-155010_bem_40e_elicit_6.wav	umwana akafyalwa bakalamwita mulenga	4.31	F	0
+4	04-200917-143010_bem_346_elicit_45.wav	isho endimi ishotumfwa napa filimba pene	4.22	F	0
+4	04-201008-155438_bem_40e_elicit_19.wav	we undilile cikanda mulenga fye akulye	4.02	F	0
+4	04-201005-213708_bem_40e_elicit_13.wav	balima babyala na mu mu mabala ya mfumu na ya bantu	4.9	F	0
+4	04-201009-122744_bem_40e_elicit_39.wav	ishi nama imishi yonse  yali ni mu citilamuto	4.54	F	0
+4	04-201008-155438_bem_40e_elicit_0.wav	apafumine ukuti mulenga akulye	2.81	F	0
+4	04-201008-155438_bem_40e_elicit_4.wav	bushiku bumo bali pa cibwanse baleisha na banakashi banankwe	6.6	F	0
+4	04-200916-223805_bem_346_elicit_6.wav	kuli abo abapwisha isukulu	2.18	F	0
+4	04-201005-212105_bem_40e_elicit_15.wav	atalika no kupepa ati	2.86	F	0
+4	04-200914-215547_bem_346_elicit_1.wav	lyonse fye ngawamona icintu pebula	3.9	F	0
+4	04-200916-223805_bem_346_elicit_31.wav	kennedy taulefwaya ukwisa kusukulu	3.38	F	0
+4	04-201009-122744_bem_40e_elicit_3.wav	ala lelo lyena afuma ukuti atandale mu calo ca lubemba	5.26	F	0
+4	04-201005-205341_bem_40e_elicit_18.wav	e calengele no kuti alemusendela utuntu twakocela lesa wa milungu alepepa	7.31	F	0
+4	04-200917-201407_bem_346_elicit_8.wav	niwebo nani ishina'	2.34	F	0
+4	04-201005-205341_bem_40e_elicit_6.wav	efyo caba mu lubemba umuntu nga abeleka ishina lyakwe liba nga ilyashikama mu ishina lya mwana balati shimwila namwila	13.64	F	0
+4	04-200916-232841_bem_346_elicit_1.wav	tulandafye ici soli pa ng'anda	2.81	F	0
+4	04-201009-122744_bem_40e_elicit_27.wav	shaba kwati nashilwala	2.79	F	0
+4	04-200916-232135_bem_346_elicit_16.wav	eico bakafundisha bafwile bapela amaka ukweba ati basambilila bena	6.53	F	0
+4	04-201008-151412_bem_40e_elicit_37.wav	mulenga abule lino lya nsofu alambalika pa cipooma mu muyenge abantu bonse bashele ku mulundu	10.6	F	0
+4	04-200917-143010_bem_346_elicit_25.wav	icabuta ku cisungu	2.11	F	0
+4	04-200914-215547_bem_346_elicit_3.wav	cifwile caiminina ukololoka waumfwa	4.42	F	0
+4	04-201008-153522_bem_40e_elicit_26.wav	nangu aba ifi taba nga mfumu yesu christu	4.29	F	0
+4	04-201005-212919_bem_40e_elicit_9.wav	ulu lubuli iwa mifwi na mafumo iwabipile nganshi	5.1	F	0
+4	04-200914-215547_bem_346_elicit_44.wav	aba soli nabakwata ubuyo kuntanshi	4.79	F	0
+4	04-201008-151412_bem_40e_elicit_16.wav	apo mulenga asenaminwa ku mipashi	3.95	F	0
+4	04-201005-212919_bem_40e_elicit_0.wav	mulenga apususha abantu mu buta	4.02	F	0
+4	04-201005-205341_bem_40e_elicit_26.wav	kanshi mulenga wa mpanga alumbukila ku milimo umwine abombele iya bukapepa	7.28	F	0
+4	04-201008-160002_bem_40e_elicit_1.wav	cali mu kabengele elyo ubowa bwa tente na kabansa na citondo na cinsukwa bwafukwike	8.33	F	0
+4	04-201009-110017_bem_40e_elicit_14.wav	abantu baleyako no kutamba lelo mu nika ilyo tabalenyamo nangu ukupashanya imililile ya tuni kuti uwacite fi afwa	15.9	F	0
+4	04-201009-110829_bem_40e_elicit_6.wav	umfweni mwandini mwe bana ine nali umwaice ilyo shikofu motomoto aishile na banankwe	8.3	F	0
+4	04-201008-151412_bem_40e_elicit_5.wav	bwangubwangu aumfwa ne shiwi lya banyina uko balemuposha abati	6.26	F	0
+4	04-201009-110017_bem_40e_elicit_26.wav	cibuye ati we mwaume we shimona ulufuba ulu ne nsalu iyakashika ala milungu iyi te nsalu tecuma cinecine kuti twafwa	13.7	F	0
+4	04-201008-151412_bem_40e_elicit_39.wav	abantu bapapa sana basunguka nefyo icipooma caba	4.29	F	0
+4	04-201005-211232_bem_40e_elicit_11.wav	basosa no kuti nga bengatobaula icilibwe bakasangamo ifintu fimofimo ifyakale	8.21	F	0
+4	04-200916-232620_bem_346_elicit_4.wav	zenaida isa kuno kuntanshi	3.13	F	0
+4	04-201008-153522_bem_40e_elicit_18.wav	kanshi takwaba icintu ico bapela ishina icishabako	4.54	F	0
+4	04-201012-174116_bmy_47d_elicit_11.wav	baleshimika no kuti uyu munyinabo shimapepo alicila ne ngulu yaliko muli shilya nshiku makumba	10.23	F	0
+4	04-200917-142312_bem_346_elicit_27.wav	ufwile ubelengefye weka	2.06	F	0
+4	04-201008-151412_bem_40e_elicit_19.wav	nacine bashimikila imfumu fyonse ifyo mulenga acita ne fyo kalambo wine aba nefyo lesa amupa fyonse ifyo alomba	11.39	F	0
+4	04-201008-160002_bem_40e_elicit_14.wav	balisha ing'oma bushiku bonse awe nakasofu wa kantu teti omfwe abakile fye ukuya na ulya muntu	9.8	F	0
+4	04-201008-153522_bem_40e_elicit_4.wav	nomba balaba ukuti mu calo mwaha ifintu ifingi mwaba ifimoneka ne fishimoneka ku menso	7.8	F	0
+4	04-201009-122744_bem_40e_elicit_7.wav	amona cimo cabesha ngo mwele wa mfula pa menso bya bya	6.78	F	0
+4	04-201008-153522_bem_40e_elicit_28.wav	ngefyo aebele toma ati pisha iminwe mu filaso fyandi	5.69	F	0
+4	04-200916-232135_bem_346_elicit_0.wav	ninshi teti utampe isukulu pantu ninshi uli mwaiche saana	4.4	F	0
+4	04-200916-223805_bem_346_elicit_48.wav	pakweba ati ukubamonakofye  baselakofye mulicimo mumweo wabo	6.87	F	0
+4	04-201009-110829_bem_40e_elicit_16.wav	ala na ciwa nao efyo acita ku fiwa fibiye	4.06	F	0
+4	04-201005-211232_bem_40e_elicit_15.wav	nakaoma na nkashi yakwe mwenya bakukila kulya kwine	5.63	F	0
+4	04-201009-122744_bem_40e_elicit_15.wav	mulenga ati umunani uli mu mpanga mailo mukasanga ninjipaya utululu mukese mu kusumbulwila mulelya	8.78	F	0
+4	04-201005-212105_bem_40e_elicit_26.wav	apingula ukusenda ifilyo ukututulula amatala no ku kukila ku chishamutima	9.32	F	0
+4	04-201005-213708_bem_40e_elicit_1.wav	kuli chisha uko mulenga aikele talekele kulima	5.17	F	0
+4	04-200914-215547_bem_346_elicit_26.wav	ngawa kola	2.18	F	0
+4	04-201008-154234_bem_40e_elicit_0.wav	mulenga ifyo engila mu nanda ya muntu	3.65	F	0
+4	04-201009-122744_bem_40e_elicit_20.wav	kulya mulenga ele abuula ilampi lya bubill	3.81	F	0
+4	04-201005-205341_bem_40e_elicit_2.wav	twalikwata banyinefwe na bashifwe twalikwata na bamunyinefwe ne nkashi shesu	8.78	F	0
+4	04-200914-215547_bem_346_elicit_9.wav	namona ati loveness aleeshako ukulemba ishina lyakwe pa ng'anda	5.63	F	0
+4	04-200914-220511_bem_346_elicit_23.wav	tapali nafimbi efyo fye	3.24	F	0
+4	04-200914-220511_bem_346_elicit_47.wav	elo ulembe ishina lyobe ilyashalapo mwaumfwa	5.1	F	0
+4	04-201008-153522_bem_40e_elicit_3.wav	ico fishasalwile fyamena abantu bapusuka ku nsala	5.31	F	0
+4	04-201012-174116_bmy_47d_elicit_2.wav	na nomba amanika ya mimana ingi mu lubemba mukasanga yaba ne mputa sha kale	7.6	F	0
+4	04-200917-142312_bem_346_elicit_7.wav	awe ni 'mushili wamilimo twange'	3.24	F	0
+4	04-201005-211232_bem_40e_elicit_12.wav	llyo bapwa ukupepa babwelelamo ku kutwala mwamba kwa ntalasha	7.35	F	0
+4	04-200916-232620_bem_346_elicit_15.wav	ni nani ulefwaya ukweshako ukwimba	3.13	F	0
+4	04-201008-160002_bem_40e_elicit_18.wav	umuntu nga alondoka balafwaya umuti wa kumusamba abati nga bamuleka fye alaenda ifi fine kuti alamona ici nshinga ca kwa mulenga pe na limbi line kuti asendwa mu mpanga	16.83	F	0
+4	04-201005-211232_bem_40e_elicit_23.wav	amona kabili kuntanshi kwafiita atole cishishi ca mulilo asanikako amona fye ciyanda icikulu sana kwati ni pa mukooti	13.41	F	0
+4	04-200916-232620_bem_346_elicit_9.wav	umutwe na mapeya amakufi no tukondo	3.24	F	0
+4	04-200916-223805_bem_346_elicit_3.wav	ba kafundisha bobe balimutemwa kwena	2.34	F	0
+4	04-200917-201407_bem_346_elicit_11.wav	ufwile wabaposha ici cilalangisha umucinshi	3.79	F	0
+4	04-201009-110829_bem_40e_elicit_18.wav	eco tucitila nefyo atweba	2.9	F	0
+4	04-201005-212919_bem_40e_elicit_23.wav	umukote ulya shamungole anshimikile ukuti wishi ishina lyakwe ni fitote	8.53	F	0
+4	04-200914-215547_bem_346_elicit_42.wav	ici ecikankala caba soli intambi shesu shilapanga lyashi lyakale	6.81	F	0
+4	04-201008-155438_bem_40e_elicit_1.wav	kale sana umulapo wakuti mulenga andye mulenga akulye abalye takwali iyoo	7.71	F	0
+4	04-201008-155438_bem_40e_elicit_9.wav	umubiye nao ati awe mayo na ine wine naonaula kalundwe mu ibala lyandi mubulile no wamuti	10.75	F	0
+4	04-201005-212105_bem_40e_elicit_19.wav	mbebe nabo balekupepa monsemonse	4.67	F	0
+4	04-201005-205341_bem_40e_elicit_11.wav	mulenga wena ali ni kasuli eco teti betileko batile namulenga iyoo	8.42	F	0
+4	04-201008-160002_bem_40e_elicit_11.wav	nakasofu aya na ulya alemusanikila	3.92	F	0
+4	04-201008-153522_bem_40e_elicit_14.wav	kuli ifimoneka limolimo kuli bamobamo mu myaka mu myaka	7.35	F	0
+4	04-201005-213708_bem_40e_elicit_9.wav	mwenya alyumfwile uko nakaoma alekaka inkaama na mwane mulenga	7.49	F	0
+4	04-200914-215547_bem_346_elicit_35.wav	twalikwata intambi ne mishobo shesu	3.65	F	0
+4	04-200916-232841_bem_346_elicit_7.wav	tulafwaya asambilile pantu fyonse kuno fyalembwa mu cisungu	5.01	F	0
+4	04-200916-232841_bem_346_elicit_19.wav	elo nomba apa alecita bwino namunsamushi	3.15	F	0
+4	04-201005-212919_bem_40e_elicit_17.wav	abapele nsofu ne yombe '	3.43	F	0
+4	04-201005-205341_bem_40e_elicit_23.wav	nomba natutale tulabe kuli bonse tukonke imilandu yakwa mulenga wa mpanga eka	7.9	F	0
+4	04-200917-143010_bem_346_elicit_17.wav	kuli imo iyandi naa imo iyakwa nene	3.4	F	0
+4	04-201008-154234_bem_40e_elicit_15.wav	abaice baleti bacebukila ku mwinshi bamona iciibi icaisalwa	6.72	F	0
+4	04-201008-151412_bem_40e_elicit_25.wav	abantu batoota baya na kwa mwamba ku milungu	4.56	F	0
+4	04-201005-212919_bem_40e_elicit_1.wav	mu nshita ine bapwile ukutunte filyo e lintu kafululanga imfumu ya bakalima manika babushishe ulubuli na bayeke	12.95	F	0
+4	04-200917-142312_bem_346_elicit_37.wav	tuleisala mailo tefyo	2.2	F	0
+4	04-200917-202808_bem_346_elicit_23.wav	isa ulande kuli ine	2.02	F	0
+4	04-200916-232841_bem_346_elicit_18.wav	mu sukulu ukufuma mu january ukufika napano ale eshafye saana	5.94	F	0
+4	04-200916-223805_bem_346_elicit_43.wav	eya tuleya	2.09	F	0
+4	04-201009-110829_bem_40e_elicit_26.wav	umuntu nga afwa aposwa kwa ciwa ninshi ulya capwa alambulwa ukulingana ne milimo abombele muno calo	11.66	F	0
+4	04-201009-110829_bem_40e_elicit_15.wav	kabili ku mulu gabriel taba na mubili iyoo	3.68	F	0
+4	04-200917-142312_bem_346_elicit_19.wav	nilisa ilanga ili	2.29	F	0
+4	04-201008-154234_bem_40e_elicit_7.wav	kasonde na mwamba babukila fye mu kupunda kwakwa chilufya	4.97	F	0
+4	04-201008-153522_bem_40e_elicit_17.wav	icamoneka ninshi nacimone kabili ne camoneka cine balacipela ne shina	8.73	F	0
+4	04-200914-220511_bem_346_elicit_11.wav	finshi walecita muma holide	2.09	F	0
+4	04-201008-160002_bem_40e_elicit_8.wav	nakasofu akonka ulya mubiye amwene pantashi ati nalimo umunandi ali mu nshila lelo inshila teti aisange no kuti asange umubiye wine nakalya fye	14.02	F	0
+4	04-200917-143010_bem_346_elicit_38.wav	mubarak leka ulubuli	2.2	F	0
+4	04-201008-151412_bem_40e_elicit_7.wav	apoka fyonse aitila na pa menshi balabwelela na ku mutanda	6.06	F	0
+4	04-201008-151412_bem_40e_elicit_23.wav	abula na bakalume ba kuya na nakaoma ku milungu kwa mwamba	8.1	F	0
+4	04-201005-212105_bem_40e_elicit_2.wav	cilya ati kamfumine panse awe asanga icilibwe naciisala icine ceka pa mwinshi	7.06	F	0
+4	04-201009-110017_bem_40e_elicit_8.wav	pa cishiba cine ici napo mulenga alepepapo mu calo ca bulungu nga mwawa ifishimu mumpa	9.8	F	0
+4	04-200914-215055_bem_346_elicit_3.wav	munshita shama holide ndefwaya mukalembeko namanambala	6.94	F	0
+4	04-201012-174116_bmy_47d_elicit_3.wav	mumomumo mukamonamo no tumumbu kamokamo	5.63	F	0
+4	04-200917-142312_bem_346_elicit_45.wav	twebeko efyo wasambilile ifili fyonse	2.88	F	0
+4	04-201005-211232_bem_40e_elicit_5.wav	icisoka naco caibila na pa menshi	4.67	F	0
+4	04-200914-220511_bem_346_elicit_9.wav	mumala mumwakwe mulekalipa	2.59	F	0
+4	04-201008-154234_bem_40e_elicit_20.wav	ulya muntu we lampi kuti kalekale baluba nefyo afikile mwa nakulu kapembwa	8.96	F	0
+4	04-200914-215547_bem_346_elicit_41.wav	aba abaice bakakula nokupela intambi kubaleisa abana kukula abapya	6.65	F	0
+4	04-201008-154234_bem_40e_elicit_24.wav	bonse twali mu tulo uwabalilepo ukubuuka ni kapambwe	4.92	F	0
+4	04-201005-204642_bem_40e_elicit_0.wav	mulenga wa mpanga	3.74	F	0
+4	04-200917-202142_bem_346_elicit_17.wav	steward tuleya ku ng'anda	2.04	F	0
+4	04-201008-153522_bem_40e_elicit_24.wav	uyu mubili wakwe tawikatwa nangu kuli cimo	4.15	F	0
+4	04-200917-142312_bem_346_elicit_3.wav	nomba iseni tweshe pamo	2.09	F	0
+4	04-200916-223805_bem_346_elicit_41.wav	pantu ukalafwaya ukubamona lyonsefye	3.88	F	0
+4	04-201008-151412_bem_40e_elicit_6.wav	shimwapoleni tata utubunga utu na tucilemba utu twakuletela	7.15	F	0
+4	04-200916-232841_bem_346_elicit_13.wav	nibanani abene ba ici	2.45	F	0
+4	04-201009-110017_bem_40e_elicit_31.wav	mulambi aima baya na ulya mwaushi ashelepo apepapo awe cayanduluka	7.99	F	0
+4	04-200916-232620_bem_346_elicit_1.wav	nomba ninshi muleimbila kwati bana abalwele	3.52	F	0
+4	04-200917-143010_bem_346_elicit_4.wav	mululimi lwa sumiminishiwa mu caalo cine bekalamo	5.38	F	0
+4	04-200917-142312_bem_346_elicit_6.wav	te mumilimo 'ofuweka' ai	3.22	F	0
+4	04-201009-110017_bem_40e_elicit_4.wav	pakubala natumfwe bwino uyu mulandu we tandwe	5.51	F	0
+4	04-200917-142312_bem_346_elicit_32.wav	kanshi kwalibako utunono utufintu utumushupako	4.02	F	0
+4	04-200917-202142_bem_346_elicit_23.wav	isa ulande kuli ine	2.09	F	0
+4	04-200914-215547_bem_346_elicit_37.wav	elo nakutanshi abantu bakeshiba ati kwaliba uyu umutundu	6.83	F	0
+4	04-200916-223805_bem_346_elicit_33.wav	bushe walintemwa	2.29	F	0
+4	04-200914-215547_bem_346_elicit_15.wav	ishina lyandi ni niza'	2.45	F	0
+4	04-200914-215547_bem_346_elicit_25.wav	ishina lyandi ninebo steward' waumfwa	3.97	F	0
+4	04-201012-174116_bmy_47d_elicit_16.wav	abati kano fye lucelenanga umwine akeselumbula ilya mfumu yabamo	7.96	F	0
+4	04-200914-220511_bem_346_elicit_22.wav	nalecemenafye imbushi ne ng'ombe	3.95	F	0
+4	04-200914-220511_bem_346_elicit_33.wav	kuti twatemwa ifyo nomba kuti fyaba	3.86	F	0
+4	04-201009-122744_bem_40e_elicit_28.wav	shatutubala no kututubala	3.77	F	0
+4	04-200917-201407_bem_346_elicit_15.wav	uli nemyaka inga'	2.18	F	0
+4	04-200917-143010_bem_346_elicit_15.wav	ama temu yabo yabili pa sukulu	2.68	F	0
+4	04-200917-201407_bem_346_elicit_2.wav	elo balanda ati 'shani' uleumfwa	3.06	F	0
+4	04-200914-215547_bem_346_elicit_21.wav	elo ulembe ifilembelwe pa bodi	3.79	F	0
+4	04-201008-151412_bem_40e_elicit_29.wav	icungulo abapeela na mafunde ya kwendelamo pa kuya kulya kuntu ati	5.85	F	0
+4	04-200914-215547_bem_346_elicit_47.wav	mu kalale abantu balecifisa	3.45	F	0
+4	04-201008-155010_bem_40e_elicit_11.wav	nga ali ni mulenga no mwana afyalwa akalaitwa mulenga	6.03	F	0
+4	04-200916-223805_bem_346_elicit_13.wav	mwalishiba ukutoloka ninshi	2.38	F	0
+4	04-201008-151412_bem_40e_elicit_17.wav	nga na ine ampepelako	2.27	F	0
+4	04-201005-213708_bem_40e_elicit_15.wav	kuicusha fye tafyamenene	3.34	F	0
+4	04-200914-215547_bem_346_elicit_28.wav	ufwile wafimba pa kwana	2.13	F	0
+4	04-200917-143010_bem_346_elicit_47.wav	elulimi lwaleta nabantu pamo	3.34	F	0
+4	04-200914-215055_bem_346_elicit_0.wav	ici soli pamo ne mitundu sixty four iyamu zambia ciletwalila ukukana kwatamo amaka nencende mulupapulo lwa masambililo	11.84	F	0
+4	04-200917-202142_bem_346_elicit_0.wav	naliya mukumona bakafundisha bakwe mukulandapo nabo	4.27	F	0
+4	04-201008-155438_bem_40e_elicit_3.wav	mulenga akulye atampile ku mukote umwanakashi	4.38	F	0
+4	04-200914-215055_bem_346_elicit_2.wav	caawama incito ya ku ng'anda kusambilila kulemba shina lyaba tata	5.85	F	0
+4	04-201005-211232_bem_40e_elicit_22.wav	afuma alashika no mulilo akosha asenda utukuni no mulilo akosha mukati	7.69	F	0
+4	04-200916-232620_bem_346_elicit_3.wav	umutwe na mapeya amakufi no tukondo	3.97	F	0
+4	04-200914-215547_bem_346_elicit_8.wav	elo ndefwaya bonse imwe mukakupe amabuku mwaumfwa	5.94	F	0
+4	04-201008-154234_bem_40e_elicit_23.wav	na bamayo mwaice abafumine ku katanga bali ne fumo lya bubeli baishile ku kupaapa ku mushi nabo twali nabo mu nanda	13.41	F	0
+4	04-201009-122744_bem_40e_elicit_21.wav	ili lyena imibengelele ya liko e fipolopolo fya mfuti	6.44	F	0
+4	04-200914-215547_bem_346_elicit_46.wav	ehe bakalailandapo	3.11	F	0
+4	04-200916-232620_bem_346_elicit_22.wav	tawishibe pakanwa pobe ni pesa	2.88	F	0
+4	04-200916-223805_bem_346_elicit_23.wav	mwila angala ukulashinguluka ba geledi one	3.61	F	0
+4	04-201008-151412_bem_40e_elicit_0.wav	bapapa pa kumona mulenga ekele panshi mu muyenge mupepi na paleponena amenshi	7.31	F	0
+4	04-201005-212919_bem_40e_elicit_19.wav	muyeeba bashamfumu ukuti aba bakalimamalungu nga mwabacimfya teti mubateeke kuti mwabeba bayafwaye calo kumbi	12.14	F	0
+4	04-200916-232135_bem_346_elicit_14.wav	ululimi lusuminishiwa mu geledi cinyanja	5.58	F	0
+4	04-200914-215055_bem_346_elicit_11.wav	steward leka ukulya ayo ama bisiketi	4.02	F	0
+4	04-200914-215055_bem_346_elicit_9.wav	nombaline mwalaya mu geledi two	2.84	F	0
+4	04-200914-220511_bem_346_elicit_15.wav	finshi efyo mwalecita ku chalimbana	3.38	F	0
+4	04-200916-232841_bem_346_elicit_2.wav	kuti cawama nga cakuti alisambilile nangula	4.51	F	0
+4	04-200917-201407_bem_346_elicit_10.wav	umunobe alakweba ishina lyakwe waumfwa	4.86	F	0
+4	04-200916-232135_bem_346_elicit_8.wav	kanofye bakafundisha ngabamilangisha	3.68	F	0
+4	04-201009-110829_bem_40e_elicit_23.wav	kanshi nalimo uyu mulenga e kaino wine	3.9	F	0
+4	04-201005-204642_bem_40e_elicit_10.wav	mulenga afuma kwi	2.13	F	0
+4	04-201008-155010_bem_40e_elicit_4.wav	amashina yamo yafuma kuli uyu wine mukandi	3.45	F	0
+4	04-201009-110829_bem_40e_elicit_13.wav	umuntu nga abwela mu busuma alesosa ne fisuma mutile atumwa na lesa	6.15	F	0
+4	04-201009-122744_bem_40e_elicit_32.wav	impanga yonse inama shalaswa shakumbwa ne cele cakwa mulenga munda	6.13	F	0
+4	04-200917-201407_bem_346_elicit_12.wav	kanshi palya wabepusha	2.09	F	0
+4	04-200916-223805_bem_346_elicit_7.wav	lilya nga bakula bambi kuti baba bashing'anga	3.97	F	0
+4	04-201008-155438_bem_40e_elicit_12.wav	umukote ulya ati nabapela mulenga abalye	4.76	F	0
+4	04-201008-154234_bem_40e_elicit_9.wav	baikala balalanda ne lyashi	2.45	F	0
+4	04-201005-205341_bem_40e_elicit_20.wav	bamunyina balya mumfwile numbwile konkola na kaoma bena baleipika umwafi uwakupishamo abalecita imilandu	11.0	F	0
+4	04-200914-215055_bem_346_elicit_1.wav	kuti nalemba ishina lyandi nomba ilya batata nakalya	5.38	F	0
+4	04-200916-223805_bem_346_elicit_46.wav	kanshi nshaleumfwikisha imibele ya mushi onse	3.43	F	0
+4	04-200916-223805_bem_346_elicit_49.wav	pancende pamo uku limbi ecingabapo bwino	4.92	F	0
+4	04-201012-174116_bmy_47d_elicit_17.wav	ababemba bonse batila linso lya mfumu	3.79	F	0
+4	04-200917-202808_bem_346_elicit_24.wav	bushe walaisa umpeleko limo pamapela yobe	3.79	F	0
+4	04-200917-202142_bem_346_elicit_1.wav	balandile ati nga pa ng'anda mfwile ukulaeshako ukulanda naena	7.19	F	0
+4	04-201009-122744_bem_40e_elicit_34.wav	aleti fye uyu apa ne nama yakwe alekomaula	4.79	F	0
+4	04-201008-154234_bem_40e_elicit_8.wav	aba bakalume bati babuke basunka no munabo uwalelota elyo balakosha pa mulilo pakuti baleonta	10.12	F	0
+4	04-200916-232841_bem_346_elicit_3.wav	pantu kuti aba uwakusambilila bwangu	2.81	F	0
+4	04-201008-154234_bem_40e_elicit_29.wav	kapambwe alatushina ifimputwa ukwabula ukusosa alasunka mama pamo na ba mayo mwaice	10.23	F	0
+4	04-201008-153522_bem_40e_elicit_29.wav	kanshi umubili wakwa mulenga umbi fye	3.18	F	0
+4	04-201009-122744_bem_40e_elicit_11.wav	uyu muntu asosa ati mayo iwe finshi uleswa	4.06	F	0
+4	04-201005-212919_bem_40e_elicit_15.wav	shikulu twafwa tutuleni fwe bana benu kuli bakalimamalungu	5.42	F	0
+4	04-200916-223805_bem_346_elicit_35.wav	bushe omfwa ici nyanja nangu ci soli	2.88	F	0
+4	04-200917-142312_bem_346_elicit_41.wav	nangu uli onse uwingebukisha	2.63	F	0
+4	04-201005-211232_bem_40e_elicit_18.wav	asuka ayasanga ulupili wa chisha umo alepitana mu kufwaye nama sha kuleka ifiita	10.48	F	0
+4	04-201008-155010_bem_40e_elicit_12.wav	abantu batila umupashi wa ulya muntu afwile e wabwelela muli uyu mwana afyalwa	7.55	F	0
+4	04-201008-153522_bem_40e_elicit_15.wav	abantu abengi tabasumina ifikansa fyalifulisha	3.95	F	0
+4	04-201005-204642_bem_40e_elicit_7.wav	ukulemba nako nshaishibe	3.74	F	0
+4	04-200916-223805_bem_346_elicit_39.wav	nomba ngawalintemwa cinshi ulofelwa ku sukulu	3.74	F	0
+4	04-200917-142312_bem_346_elicit_48.wav	elizabeth ukufuma epo wayambile isukulu finshi uleibukisha	4.99	F	0
+4	04-200917-142312_bem_346_elicit_12.wav	bonse imwe mwalatulangishako weka weka twaumfwana	4.45	F	0
+4	04-200914-215547_bem_346_elicit_31.wav	kuli imwe mweba teti ndefwaya ukumitemwa	4.47	F	0
+4	04-201008-151412_bem_40e_elicit_31.wav	kuno takwaba kupashanya tuni nga tulelila nangu ukupashanya ifilelile nama	9.85	F	0
+4	04-201005-204642_bem_40e_elicit_21.wav	mulenga pali musondawetandwe	2.88	F	0

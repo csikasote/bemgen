@@ -1,0 +1,861 @@
+speaker_id,audio,sentence,gender,gender_domain
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_5.wav,yati njelela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_0.wav,mwe balebelenga,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_36.wav,mukwai kaluka ifirnembya ifingi nganshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_18.wav,mukwai na ukumyanga umucele kashita kaluka umwina wa membya lokoloko,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_3.wav,kuti alesakamana ukuti nalimo nakulacelwa atemwa umulimo wandi tawakapwe bwangu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_18.wav,ashimpa na namumpanda epo aisapisha umumposempose,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_23.wav,cilya abantu balasumbila kukwisa kumushi twaleka twafuula na ifyakufwala twakiba na mucimpompo bwinobwino,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_9.wav,kanshi mulenga aikele kulya kwine eka kwati lishilu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_11.wav,mukwai twafumina na panse twaita na inkoko inkoko nasho shayabuula na inoma shalalisha,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_11.wav,te kubikila pakati ka bwendo iyo ni mupepi no bwendo atemwa mu mushita,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_17.wav,uko tucinda canca,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_45.wav,elyo mumbi nao ulya atampa na ukushimika umo aafimwenene,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_21.wav,kamupa na umwando akati nomba kaka ku kanwa ka mbukuli elyo ufumishe pilu kunse,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_25.wav,sebeni ifyani pa ncende musalile,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_16.wav,imilimo yonse ii nga yapwa kwimya iliba no kuliteka pa mpela ya mumposempose uko akakile akamuti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_49.wav,mumbi aba nomba ni mfumu uwali umusha  umulanda kabili umucushi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_30.wav,cilya abantu bati bamucite umulandu abaleemonako ifyo imfumu yacitile abati awe imfumu ine eyabaalipepo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_0.wav,akakota alosha kulya ifuma ashika na bwinobwino impela shonse isha kakota na kalume alosha kunse,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_23.wav,nga bali abengi balongana pamo epo balakulila ifikwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_16.wav,oca bwangu endesha,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_28.wav,ubulimbo nga bwabamo mutanu elyo buba ubulimbo bwinebwine,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_36.wav,ubulanda bwaya ku mukoshi wa mfumu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_17.wav,tayakwata mpantila nge mpuku shimbi pantu tayaba na busali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_19.wav,alatutumafye kumo na utwana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_1.wav,kalulu yangu cine ee we mucambaci ciineciine waikaya weka ee,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_27.wav,mukwai mfumu yalapisha na umunwe ku mukoshi yaluka yaluka na ukuti iluke ubulanda nakalya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_38.wav,umuntu onse uulefwaya ukumuupa kano akanwe ubwalwa munsupa yandi ii eka akapwe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_31.wav,umbi nao afika nao ifyo fine yayashobesha,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_40.wav,akale abaume ebaleimba ifishima beka nomba nabanakashi nabo baleimba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_41.wav,awe baanamumbi basuka banaka abati maayo kampele imfumu akacila ilye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_19.wav,elyo ine uukepaya inkalamo iyi sunkutuwamilimo nkamufya umwana wandi kasuba ubushiku ubo bwine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_23.wav,ngefyo ine insupa tayapatile mu nceelo yenu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_0.wav,mumbi asuka amaano yapela aikalafye,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_45.wav,elyo yaeba abantu aiti shimyeni umulilo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_4.wav,nga pali uupamine ikumi atemwa ukucilapo kuti ateya fyonse e pakulabwelela ku mushi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_12.wav,afwaya ulushishi na kanamumpanda,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_0.wav,nga cakuti wayafwila mu mumana elyo walilwala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_14.wav,iyi nshita imoneka iyansansa ku baice tabapema bwino iyo bapema fye akansanki,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_35.wav,tuume na baikalile,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_16.wav,camupa na akanama akapala imbushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_5.wav,imfumu aiti nangu tawikwite pamo peene,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_22.wav,abantu mumilimo baaleumfwa uko inoma shilelila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_11.wav,elyo akati tukacitefi bane imwe bonse mukayeshala ku mbali ya mushi nkabale nkayenwapo nine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_8.wav,muinbi afika kutifye cilya akomamo isembe limo koma aumfwa na ishiwi lyafuma  na mumufungo aliti niwani,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_31.wav,mufwile ukupempula ifibumba fya mu fishima lyonse,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_7.wav,balumbwe nga bashibuka bena bali no kuya fye pa nsaka balasamba no kusamba bambi nabo basambila mu mayanda ilyo talafumina panse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_31.wav,kabula na umwando kakaka nakanwa ka nyambi nomba kasha icipunda lubali,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_0.wav,uushibambila kanwa kakwe akomfwa ukununka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_3.wav,bali no kucita ifyo fine bonse umo bapelele,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_44.wav,imfumu nayo yabuula nakantu kamo ishina yaleti ubulanda yapeela na ululumendo aiti ukaya mukwangasha,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_20.wav,umulumendo atieya mukwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_47.wav,imfumu yatoba na kabulanda panshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_44.wav,ilyo line na ulubuli lwapwa basenda na umuti bayaposesha na umulwele wabo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_0.wav,atulumunafye amenso kukulolekesha nao ilyo line amenso yabelelela,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_32.wav,kalulu aupa umwana wa mfumu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_19.wav,ukunona kufuma ku bwaice,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_9.wav,atemwa ukuputula fye pakuti inshila ishale umwakupita,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_10.wav,ukutendeka pa mwela no kwisafika pa mibundo e nshita yalinga ukuteya ubulimbo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_37.wav,cilyafye cafwa kaputulako na umucila na ifisansa na umutwe kakaka na munyambi yakako kalabwelela na kumushi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_11.wav,napo nga cakuti bacifwaya ukuya ku kutoola imfungo nelyo ku mansansa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_14.wav,akati umunani tawapye bwangu ciine endesha,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_16.wav,mu mano yakwe aletontonkanya ukuti palya pantu pali imfumu ikalamba iyacita cilya cipapwa icakuti uku konse umumana wafuma waba fye uusuma uwatambalala,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_2.wav,lumbasa nao ecamucita filya akanwa,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_9.wav,mwenya alyumfwile uko nakaoma alekaka inkaama na mwane mulenga,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_19.wav,imfumu yafulwa nganshi yatuma abakuyaipaya mulenga,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_35.wav,casuka canaka kumenshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_24.wav,pa kupama ifikwa balinganya bwinobwino ku mpela baputulako utulushishi tonse baisatula na menso utupunda tubili konsekonse umwakupisha ulushishi,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_6.wav,ailesanga icisoka icikalamba icali mu menshi palya pene kalambo aponesha amenshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_47.wav,mwali abalumendo na bakashana abengi saana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_31.wav,nomba tapali kukeba ukuti we kameme kandi luka tumone iyoo mukanjipayafye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_13.wav,ubushiku bumo imfumu yatontonkanya aiti nalifyala umwana uyu kasuba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_37.wav,abantu bonse baisa mukutamba abati alanakepaya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_22.wav,kuti bateya fye ayengi mpaka banaka kano fye ninshi ubukungilo nga bwapwa elyo balabwelela ku mushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_39.wav,ngashimeniko aka kantu amasako yawama muno ndefwaya njeyangashapo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_43.wav,umubiye aleti ati amwanke awe afilwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_29.wav,aitumbula abulamo na ubulanda bwakwe,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_19.wav,kabili nga wafika pesano pakutoota uyelaalafye pacishala epo uyetootela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_5.wav,bati bekale panoono na inkalamo yabuuka mucalo ca mfumu knkuta yalaikata abantu ileelya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_31.wav,abasungu batupoke mfuti,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_37.wav,bailofya na mu mayanda umo basendama,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_44.wav,imfumu aiti awe maayo ine teti njeshe ndeya angashapofye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_36.wav,papitafye na imyeshi iingi banyina basungafye akanama kamwana wabo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_10.wav,akati awe uyu umunani wenu leka ndete na ine umunani wandi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_3.wav,akati we bushe umunandi elekwi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_1.wav,umulimi ati amone insupa yakwe atemwa saana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_4.wav,nankalamo ati umunobe naani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_5.wav,iciaa aciti niwani,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_34.wav,abantu mumputa umo baabeleme baisabelamuka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_4.wav,cilya bali mukuya na imfula yafyulika yalabaloka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_14.wav,uluceelo lilya bwaca bakalulu bonse baima balaaya na kumusumba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_10.wav,sunkutu nomba alati nga aisa apuma ku cililinga afilwa,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_20.wav,cine cine shimapepo afwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_47.wav,awe mukwai fyaima fyapita kapoli ninshi ali na ifumo mumubili,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_3.wav,abakuteya amaliba bema lucelocelo nga filya fine bema pa kuya ku milimo imbi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_21.wav,mpaasa e muti wawamisha ukupamako ifikwa limolimo no muputu,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_38.wav,basuka bamona akashila umo alola pa kuya kulya kuntu nabo eko baya no tupe twine bamuletele,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_35.wav,eco kanshi tabaleeyabuka mumana ukuti bayemonana na banabo peshilya,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_3.wav,tacasuminishiwa muntambi shesu ukubomfya icimbusu cimo nabapongoshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_29.wav,imfuko munani uwanunkila nganshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_30.wav,twasuka tonse twapwa na ubwalwa nabo bwapwa,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_14.wav,imfula nao yakunta,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_4.wav,abali mu mayanda baisalisha ifiibi basunga na bana babo bwinobwino pakuti cimbwi eisasompolapo umo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_13.wav,elyo kalya akacincila kasosa akati bane,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_5.wav,umubiye ati lekeni kanshi nje mufwaile imbi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_46.wav,ati mukwai nafilwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_40.wav,awe umukashana ulya ayashina na ifumo kuli bawishi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_25.wav,kafula ati kanshi ilipatile tulecita shaani tuputule umwana ukuboko mwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_21.wav,imfumu aiti aletifye uwaipekanya isa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_7.wav,elyo ico abantu umwenso wabekata baleka ukulaya mumilimo epakwinika nomba ii nkalamo abati ni sunkutuwamilimo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_15.wav,palya pene pa mutanda epo alefuma ilyo aleya mu kupepa pali kalambo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_1.wav,cilya aflka aebo mukashi ati we mukashi wandi kebe batata kapoli naacilasa nasenda ifumo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_34.wav,kete shikeyo walaleka tuume mfumu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_2.wav,pa kuteya amaliba ya mpuku imilimo ilacepako ukucila aya tuni,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_32.wav,kaposa na nkalamo pefwe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_26.wav,muli fyonse ificitikwa ku mansansa emo ifikolwe fishibila umusango umwana wabo akaba nao nga akula,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_28.wav,kakalulu akati shininshi ulebutukafye,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_33.wav,imfumu yalifyele umwana umwanakashi umusuma saana,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_20.wav,ifyo bacita pa kwipaya imfuko bafumina mu mpanga mu mitengo no tusembe utwatwa pa kutemenako ifimuti fya kupama ifikwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_27.wav,abati ine nacilati tawabwele mwana wandi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_10.wav,cabula na akameme kambi aciti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_40.wav,mpungu nao ati ala we ushili na mapindo kuti wapupuka shaani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_27.wav,umwana aye afwale,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_8.wav,mu mushi imfuko isendama pa tufyani utwanaka kabili yabusaka sana pantu ifilyo na mafi tafiba apo ilala,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_8.wav,ico cawama pakabela kusala incende iilingile,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_15.wav,nao ntungule kalandu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_33.wav,elyo kabili ati kabili teti mwashime nelyo umo iyoo maayo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_2.wav,ubushiku bumo mumbi umutima wakalipa aima na ukweba banyina iyoo alayafye iciyeyeye mu mpanga icaile nama,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_17.wav,awe mukwai bafika napo kamwene itenga,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_16.wav,batendeka ne mbilo ukuya ku sukulu no lwa kuya ku mitutu lwapwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_14.wav,bali no kuila fye pamo umo bailile ku kuteya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_20.wav,nomba imfumu pakulolesha yapunamina mu muulu yayasamuna nakanwa ileti ha ha ha aka kantu ciine,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_35.wav,banyina ilyo bamwene ifyo alimishe basunguka nganshi bapanga no kwikala pamo na mulenga,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_35.wav,cilya twabamona elyo twati twingile mu nanda abantu nabo bafika balatwipaya twafwafye tonse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_17.wav,cilya balongana elyo aiti,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_39.wav,kuti bati baloleshe bamona ifimenshi filefuma apatali no kupona mu muyenge panshi pambipambi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_7.wav,awe mukwai yamulanga na mumufungo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_47.wav,abati iseni,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_33.wav,uwaya mukati alasamuna nga filya fine fyacilacita uwacibamo intanshi basuka bonse bakumana ifyo fine,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_35.wav,natotela sana pakuncikulako pali fyonse ifi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_12.wav,umulumendo uluceelo ati ndeya kumwesu lelo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_37.wav,nga pali abo bacena nabo waumfwa abati kakokotwa na yama aba nga ni tata nga ampako,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_5.wav,akati temulume obe,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_18.wav,ifwile yaba ukutali no kupitila mulamba wa menshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_18.wav,bonse eya eya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_21.wav,ninshi umo ali mukati nabamushinguluka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_11.wav,awe umubiye amupela na ikoosa pa kufwala apatikishafye,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_6.wav,eyaaa mwandi wapingula bwino natuleya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_14.wav,abati piiteni mukwai,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_41.wav,ukutapa amenshi ku fishima nincito yabanakashi beka kanofye nga cakuti umwaume taupa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_11.wav,senda akameme kambi aka mune,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_12.wav,kanshi umweni nao aimona,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_17.wav,bakabilo baleeta namenshi babikapo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_36.wav,mwenya nkashi yakwe atampa ukumubilikisha pa kwishiba uko alolele pakuti omfwe abwelele ku mutanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_18.wav,atinta atinta nakalya nakalya ikoosa lyapata mumisango yonse,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_11.wav,abanakashi bena balasenda no munani bepikile ku mitutu batwala ku mushi pakuti abakalamba bayetesha nga nafiwama ifyo balesashila ku mitutu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_29.wav,banyina abati cisuma tata,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_9.wav,awe mukwai kamonafye ya bantu na moolu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_46.wav,kati katilefye ifi kamumona aleisa kalaaya bakumana,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_25.wav,bonse balapapafye,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_34.wav,pa kuya ku kuteya balasenda utusembe uto abafyashi babo babafulila utwakuipangasha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_21.wav,aleti ati atile k aka k aka kauma,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_36.wav,cilya caleka ukulwisha kacikulila na mulucencemba kalacikoma na kwisembe kalecituka na insele,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_10.wav,ilyo tabalaima abanakashi bali no kulonganika utupe tonse uto bacisa nato abalumendo nabo basunga utusembe twabo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_2.wav,kali kashimi kapela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_30.wav,bulanunka nga bwabola,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_0.wav,cilya kafika akati we mfumu naisa ndefwaya njesheko naine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_25.wav,cilafye afuma atampe na ulubilo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_30.wav,eya mune lelo naisa mukumyeba pa lwamisungile ya fishima,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_2.wav,alelima ifilyo ifya misangomisango ifisuma fyaletefuma fye ifyafunda,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_27.wav,kuti fye cilya shafumina panse shaumfwa ubwema bwa ku bukungilo bwaletela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_34.wav,babula no munani umbi bapela abaice,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_28.wav,bushiku bumo nyina na nkashi yakwe mwenya bafumine ku mushi abati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_19.wav,nga wafika umfwa ifyakucita ukayalindapofye ubushiku bumo elyo uluceelo ukaye na kukukwila ifyuma ifingi,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_17.wav,mwenya asuka atumbule nkaama ku mfumu ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_16.wav,sunkutu ati eya epo nakutemenwa mwandi kalulu,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_42.wav,icishima ici camoneka kwati cilebongoloka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_48.wav,awe mukvai imfumu na amaka yapwa yati na ukuti nashukafye,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_13.wav,finshi musonda balefywa ukukula mu mushi wabo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_48.wav,kaisaima mukwai katolokela na mumutenge,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_13.wav,umwana wa mulimi aeba umubiye ati nimpe koosa lyandi nomba mune,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_23.wav,lesa wa maka ya kwimba ici alye pakuti na ine ampele amaka ya kulimishe filyo nkalelya nkende no mutende,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_34.wav,nga ubushiku bwakosa ne fyangalo fyabatendusha ifyo bacilayangala pantu bafyangala pa nshita ntali,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_23.wav,bakafundisha kuti mulelanga abana tumotumo utulelinga,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_49.wav,akati buce tamumfwiye cikuyu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_1.wav,fyonse ifilesangwa muli aka katabo e ficita abaice na ine wine nalificitileko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_38.wav,cilya kafika apo bacikumanina naco,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_39.wav,aleeti kandile wa mfumu uwati eseko kauma afulumukako,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_27.wav,ico kapoli akanwa kasapatalila,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_42.wav,elyo imfumu aiti mune mpelako ifi fintu na ine ndekupeela akantu kamo akakuti ukaye mukwangasha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_37.wav,katalamana na kukukapa imfumu kauma kauma mwe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_35.wav,baumfwana ukuya ku kusendama pantu nomba ifimbwi fyatendeka ukwenda,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_20.wav,abatandashi nga bafika ku mushi balashimika imilimo ya muntu onse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_42.wav,bonse baali na bakashi na baana,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_29.wav,natuye tulamona mulenga wesu uku kuntu aikala eka tulemufuluka muno,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_11.wav,kayabula na icisansa cakwa sunkutu kamuposela akati e munani wandi uyo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_16.wav,imfumu yaeba aiti shimyeni umulilo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_5.wav,umulumendo ulya ati cisurna fisanga abaume,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_5.wav,imfumu yayatifye ee nomba abilapo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_12.wav,akati ala uko eko mwebe kuleca abantu muulu wakwa cibale,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_26.wav,umulumendo ati ambaisheko umufwi wabwela wamulasa na ukumulasa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_8.wav,pa nshita ya kuti balecita mayo namukopela atemwa njele ya tata baumfwa sakisifoni nayo yakuwa yaleta no mundowendowe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_13.wav,ninshi uko bacifwaya ukuya kwafulungana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_34.wav,elyo asenda na ifumo lyakwe na isembe na umwando na umutete elyo asenda na inyambi akaka alaaya na ku musumba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_11.wav,nomba umo alepuma na pampumi paseseka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_13.wav,ulucelo nga bwaca kuya ku kulengula iftkwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_27.wav,kabili akeba ati we kameme kandi mina,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_44.wav,kasanga mukasunkutu na tumwane baleonta na umulilo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_32.wav,a baakulile umushi umo peshilya lya mumana,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_8.wav,ubikemo ne pindo nga bukuleke,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_11.wav,cilawamisha nga impendwa ya baice ili ikalamba pakuti balebuta bwino,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_24.wav,uluceelo umulumendo afika kuti epushe umukashi ubulanda buli kwi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_24.wav,umulumendo ati mukwai nafuma mucalo capamuulu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_5.wav,imfuko ni mpuku iyatemwa ukwikala mu mushili ipita mutunta panshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_26.wav,enda nkutwale mwandi pantu nomba kwatalala ifilwani fyacepako kusuka twatolako akesholo twaisamyangula na bana batila tailya watensha kanwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_29.wav,kaisafuma na ukufuma kamonafye aba apatali,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_32.wav,nomba twashala ukuyombawila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_22.wav,kaya kaleilumba na ukuilumba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_15.wav,nomba kuya kuli wishi ati tata mfuleniko ikoosa ili ntwalile umwine,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_0.wav,mu nanda mwabutafye tuutu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_36.wav,kuti shikulu bantu nga asuma mu mutwe aumfwa casowela no kusowela abaice bena baleminaula fye amate,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_21.wav,abapalu nga balengula ifikwa fyonse bamona nefyo bapaluka kuti babwelela ku mushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_12.wav,cilyafye papita umweshi umo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_43.wav,umo aali ni kafula aakwete na inceelo iisuma saana,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_4.wav,eico panuma ya bulwi insala yalepona ikali,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_15.wav,kuicusha fye tafyamenene,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_31.wav,kapoli aaleeti nga amona umubiye uko alepupuka mumuulu umutima walakalipa ati na ine ndapupuka filya nga cawame cibi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_20.wav,aleti ati atile we kameme kauma kauma na pakanwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_28.wav,abaice nabo balatasha nganshi nga abakalamba baletasha imicitile yabo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_29.wav,aikasha na ukuboko kwamwana aputula afumishako na umulimi ikoosa lyakwa mwane,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_22.wav,kena mukati kanyambi kabuula na umutete kangisha cinoono washala naupula kunse,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_3.wav,umulume nao ati ale kasose cisuma,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_2.wav,eco kanshi na imwe nga mulefwaya ukufyumfwa no kuficita kuti mwaficita,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_31.wav,nomba nga yaputula iliba nalyo kufutuka pantu apakushanshisha pabula kufwanta ne mpuku ku mutwe atemwa pakati,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_19.wav,ciisuma elyo cinshi cimbi icikankala,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_20.wav,aleya mu kooca ifilyo alimine,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_12.wav,umweshi nao wafuma mu makumbi wabalika,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_15.wav,bapita na mwane,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_3.wav,nakwisa ukowa ukwa mucango umbiumbi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_15.wav,bali no kumona ne milimo ya banakashi ifyo ileenda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_37.wav,bayafye mumuulu apatali saana mpungu aleka na ukupampaila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_14.wav,ako kameme kena pameenso pali apakalabana saana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_46.wav,lumbasa apo aali aumafye kunseko aseka na kanwa katanunuka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_31.wav,bayaeba na imfumu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_46.wav,abantu baalikele mumushi wa mfumu umusumba saana,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_5.wav,amangalo nelyo imilimo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_2.wav,imfumu ii yalifyele na umwana umwanakashi ishina lyakwe aali ni kasuba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_29.wav,kabili kwaisa kambi nako kaisanwa kaya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_1.wav,ifikwa balumendo bateya abakashana tabangalako iyo kanshi mu lyashi ii abakashana bena tabalumbulwemo,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_8.wav,kanshi mwenya uwapishishe imyaka itatu apo awilile icisungu umwipwa wa mfumu e wamukobekele ukuti akamuupe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_30.wav,nao wine yayafwinika,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_17.wav,pano pene epo caisaba umuyenge na menshi yalepona ifi ne congo icikalamba,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_47.wav,ndemona kwati takuli kutapa menshi lelo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_7.wav,tulefwaya ukukula cimo mu mushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_15.wav,awe mumbi alabwelela na kumushi,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_11.wav,sonkwe ilanda inyanje ifyumbu ifipushi imyungu ne fibimbi na fimbipo,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_5.wav,imfumu nayo pe fye yaletuma abantu ku kulomba imbuto sha kulima kuli mulenga,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_16.wav,iyafumina panse nga baitola bailumbula ukuti pupute,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_48.wav,sunkutu ati endita mune nga uku waya kwi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_40.wav,banyina kwa mumbi bakaana saana nomba imfumu nayo yapimpafye nga cula mwilanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_30.wav,nao ati kabili maayo tecakwesha kupeela muntu umbi nangu abefye ni mfumu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_40.wav,imfumu aiti mwaumfwa kuli aka kantu nine uleeba ifyo twalauko wikanshikula alaisa umusula mubiyo wise uyeko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_17.wav,mukasunkutu lyena aleka na ukutwishika,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_45.wav,awe mukwai imfumu ilya uko yakasendele yati yangashepofye cinoono aiti  kwena kaamone ifyo kalecita nga nakeba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_1.wav,bana ni a ni e ni i ni o ni u ni uulu waululamo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_49.wav,kakalulu uko kaali kati komfwe kaima na ukwima kalaisa na kumusumba,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_36.wav,imfumu apo ili yati yumfwe aiti mwe bantu iteeni uyo mulumendo ali panse ese kuno,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_4.wav,kanshi ali fye no kukukila kulya kwine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_5.wav,akati teti nondolole na umucango kanofye ukuimwena,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_41.wav,kampelefye nje mucenjesha nao wine,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_14.wav,lumbuleni ifintu fibili ififwaikwa pakukula icishima,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_12.wav,utuni nato elyo tusempuka twalamananya fye pantu utulyo no tuntu tumbi utwalowa e nshita tumoneka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_44.wav,mukwai afuuka na fuuuu  asanga na icilibwe ifi epo ailangula na kanwa na mpaaa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_4.wav,sunkutu ati  ukwamusango waba shaani mwishikulu wandi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_39.wav,ubo bwine bushiku nkamupeela na umwana wandi uyu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_4.wav,elyo kabundi nao epatulile ukutulumuna amenso,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_17.wav,ati mukwai tepalyafye pakatandanika yatuloke cibi mukwai,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_1.wav,nomba ilyo ubushiku bwakosa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_0.wav,ku mitutu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_23.wav,ababiye baleyankula balesunsha na maboko umo bekatanine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_5.wav,yabaloka icakuti yabepusha na imikowa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_37.wav,elyo ati kanabesa naaliumfwa ululumbi lwakwa sunkutu elyo ine eo nungeme,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_11.wav,elyo akati cisuma mune ntulako icipute ici untulefye kukanwa umubili ine walisashilia,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_22.wav,nga bakoma ifikwa no lushishi bafundila libela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_45.wav,kalaya na umo mwine mufuma sunkutu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_39.wav,awe kabatungulula bayaleta na icitumbi ku mfumu balakasuba na inkula na ubunga,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_36.wav,mpungu aima na ukwima atalika na ukupampaila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_0.wav,bashikulu balya kumushi uko baali abati natuye ku kupindila kumitanda awe bafika napa mitanda,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_22.wav,mu nanda mwafita na fititi,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_46.wav,inkupiko yapa cishima kwati naicepa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_9.wav,ilyo line elyo nabo baipula na imyungu ibili,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_21.wav,alefyoca umuku umo pa mulungu umo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_5.wav,natuleya ku kuteya ubulimbo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_27.wav,bakasuminisha kaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_24.wav,elyo kasuma na kumpela ya mutete elyo akati mposa pefwe nomba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_9.wav,ubushiku bumo mwana kafula baaleyangala na umubiye umwana wa mulimi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_11.wav,pantu pali ii nshita yonse elyo imiti iingi ibalula yakwata ubuluba na imbi yakwata amabuula ayapya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_16.wav,imfumu epakulonganika abantu ba mucalo caiko bonse,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_27.wav,kabili nalyo twashala twacisenseka twacinda twacindamwe ninshi natufwala na ifyakufwala fya muuntu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_11.wav,cilya babamonafye pa mwinshi bateeka na imyungu ifi bakupikapo na ulupe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_23.wav,ubushiku impuku nayo yebele kanje ndafwaya ifyakulya ku nse insala itwipaya na bana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_1.wav,icalo caiko naco caalifye icikulu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_1.wav,imfumo aiti kabiye uko we kanagwawe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_12.wav,kamwana nkalamo kati kaloleshe akati caplafye ica batata,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_19.wav,cilya papita inshita akati aleeni nomba mulange,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_48.wav,kaingila na ukwingila kasanga na mwana sunkutu umo pa cipuna,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_24.wav,mumbi alaaya na kumushi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_22.wav,na tumbi utwa ku bwaice tulomfwika mu mwela pamo ne nyimbo sha fyangalo filya bapupusha ku broadcasting station ishaimbwa ne nomba sha mu mulabasa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_9.wav,mumbi ati nine mumbi,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_8.wav,icisoka cine ici eco bainike ne shina lya kalambo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_28.wav,paatile akantu,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_12.wav,mumbali ye bala ili abyelemo imono nasho shatwele kapeleko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_47.wav,eiyo nomba apo caba ifi imfumu yafwa mu cibemba tutila mutema kateshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_18.wav,mwe bantu bandi bonse namumona ifyo inkalamo iletucusha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_17.wav,ilyo line aibukisha na ifyo aacitile,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_33.wav,utubundi pakumfwa mumushi mwatalala twaisafuma twafwala twatampa na iciilia,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_2.wav,twalishiba ukuti umuntu onse nga ali ukutali ne ncito abomba umutima tawikala bwinobwino,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_15.wav,awe mwane ayabuula na ubulanda bwamwinamwakwe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_47.wav,liya bayaikala ku mushi insupa yashala yatambila mu nceelo emo umushishi wayapita,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_30.wav,nomba baalibikene icibusa na impungu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_27.wav,imfumu aiti mwa ifwe bakapoli kuno enkumba shesu nomba imune tala kabiye muli kalya kayanda kali palya tuleisalanda bonse icungulo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_41.wav,umulumendo ati eya mukwai,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_7.wav,cali icabuta pa mpumi abantu baleti caba ne mpande pa mpumi,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_45.wav,camoneka kwati umulale naukulilako,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_12.wav,no tumeno twa pa mulu na panshi twaba utwasansabala,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_4.wav,pakuya ku ng'anda ikalamba tatulandilapo fye tubomfya amashiwi yashunguluka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_35.wav,afika atoota,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_35.wav,uluceelo mumbi aima aya kukunonke fyuma,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_30.wav,nshiki nshiki ntanganyika,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_0.wav,nkalamo ati ukumfwa cinshi mune kalulu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_16.wav,balabepusha na ukubepusha abati yangu ifyo mwalokwa nga imfula yacimusangila kwi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_25.wav,nomba bapuma bwinobwino pakuti tacilepwike elyo basotola ku cimuti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_8.wav,bane ine ndefwaya ukuupa umwana wa mfumu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_35.wav,we kameme kandi luka tumone,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_8.wav,cilya afika aingila na ukwingila ubwendo bwalolafye panshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_42.wav,mukwai na ikumbi lya mfula lyasesha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_20.wav,abalumendo abaleefwaya kasuba pakumfwa ifyo balafwaya ukuipaya kukufula imifwi na amafumo mukwai,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_38.wav,imfumu yapunda muimisango yonse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_6.wav,tala tunailepo na ubwali,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_10.wav,imfuko yaba na kamucila akepi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_19.wav,nga akulula asha ateya nakabili kabili elyo baya balelengula fimbi,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_21.wav,na nomba batila amamba ya mbalala balelya ne mito balekosesha umulilo ne lino lya nsofu apo mulenga aleikala kuti wafisanga mu lupili lwa chisha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_1.wav,kalaikanga na kumulilo akati imfula ya uno mwaka nayo ileloka na amalumba tata,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_31.wav,awe naceendi uluceelo abantu natuleeya kumilimo natuleeya kumilimo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_20.wav,uushukile kuti aipayamo cipepete uwinewine uwakuti na meno yalilumba na mu masaya mwafita na fititi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_4.wav,abaice nomba bele balalaba fimofimo ificitika mu bwaice bwabo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_8.wav,abene baiyo mitanda ninshi nabo baaponenwa na iyakalalamukokote baalelalilafye imyungu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_17.wav,nao natulecita njele ya tata,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_17.wav,mumbi atotela ati  santi we mfumu yandi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_48.wav,kuntanshi kwine kulya wile kwatwala na insupa iisuma saana ilya batila mutima wa nsefu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_48.wav,kanshi nomba niwe ulepyana,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_0.wav,ifyo mulenga alepepa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_24.wav,akabiye kafuma kayako,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_34.wav,elyo imfumu pakumona umwana waiko awamisha yalatontonkanya ifyo ingacita kumuntu uukamupa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_2.wav,kafula nao ati aloleshe panceelo yakwe ati yangu ngefi cisupa cicitile nakulafula shaani,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_32.wav,abanakashi te bengi balya imfuko,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_24.wav,limbi kuti baipika elyo batwa kuti basala icayanguka pa kucita,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_13.wav,e kwafuma na lilya ishiwi batila wasansabala ameno nge mfuko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_7.wav,akati ala maitukunye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_4.wav,umwine nceelo nao akaana ati nga nipa cinshi pakuti newakwata inceelo nine nje mukufwaya icilifwesa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_12.wav,elyo akaleti uyu ayanwapo nga abwela umbi ayako tabakatwishibe iyoo pantu twalipalana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_22.wav,elyo ati we mwana kaleteko utukuni pa cikuka palya uleke twise tocele abacintu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_34.wav,elyo icimana calikulile saana abantu nabo pa nshita ilya baali tabalaishiba ukubasa amato,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_40.wav,yaima yayabula na ifumo lya mulumendo yamupeela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_14.wav,umwaice atulukusha ati imfuulile umunandi ikoosa afilwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_32.wav,ilya ishele kunse yena kufulumuka yaya atemwa yaya ilafwaya ifilyo kumbi yasha iibiye naifwantwa no kufwa naifwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_6.wav,yaletifye nga akasuba kaba ku cungulo yaisa cilia yaikata umuntu yaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_46.wav,mukwai imfumu ilya yakeba na ukukeba aiti we kameme kandi luka tumone,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_12.wav,impendwa ifwile ukuba ukufuma pa baice batatu ukuya na pantanshi pantu nga bacepa tacinunkila iyo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_1.wav,natumfwa ukuti mulenga eko ali lelo tatulaumfwa ifyo alecita pa kupepa imilungu yakwe kuntu alepepela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_29.wav,awe alaaya afika na kumushi atwala nakameme kuli banyina ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_43.wav,nomba mukutete impikiso asuka umo atetako ulupikiso lwa muti wine ulya asukushila abalwani peshilya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_23.wav,mukwai imfumu na maano yapela yaibukisha na ifyo yacitile lumbwe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_27.wav,cilya afuma ati atampe ulubilo ilyo line awa na ukuwa,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_22.wav,fumyeni iloba na fosholo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_6.wav,lucelocelo abanakashi bali no kushibuka bwangu ku kukafisha balumbwe amenshi ya kusamba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_13.wav,lilya bafikako icantanshi kulolesha ifyo abalumendo bakulile amansansa nga nayawama atemwa tayaweme,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_15.wav,camweba aciti cisuma apo iwe watila balakukaana buula akameme aka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_6.wav,mu musango uyu teti tutile bunanani atemwa kutumpa iyoo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_11.wav,imfumu ileumfwafye uko abantu balecita icongo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_8.wav,pati papite akashita kanoono umulimi ashitila na mwane ikoosa iisuma saana alafwala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_21.wav,ubulimbo babufumya ku fimuti fimo ifyaba mu mpanga icilemba umupula mpako icinimbwe umwikalampungu na imbiko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_46.wav,akati oti umo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_39.wav,bushe umwina lubwe alitemwa fintu bamucinkwileko kuli andy,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_16.wav,bamona abaishibisha ukwipika no kubumba amafwasa ya kwipikilapo no kuteka ifipe bwino no busaka bwa mukati bonse,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_16.wav,kalubalabala kaluntensha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_44.wav,nakapumyako na ukupumya kasuka kafuma na ilinga,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_15.wav,imitima ikalipa nganshi pa kumona umunani wa tuni uleyangalila fye,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_18.wav,kalubalabala kaluntensha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_41.wav,umo baletukana batampa na ukulasana amabwe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_9.wav,ulya alengula ubwendo kuti aseba fye akamusebo kanono ukulingana ne liba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_20.wav,no kubalenga ukuti balekula abashangila no kushilimuka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_17.wav,aisapisha pakati ke liba no bulyo bwaikalila pakati umumposempose wapalamisha ku iliba autinta waisafumina na pa mpela ye liba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_28.wav,asuka kafula ati tata takalwilwa na mwine,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_11.wav,yangu kanshi fingi filefwaikwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_18.wav,nga wafika muli uyu mushi upitefye mululamba,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_48.wav,iloba kwati lilesunika fye ku mulundu wa kukisha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_46.wav,babwelela na kurnushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_43.wav,mumbi uko aali na umutima wafuma atampa na ukwisa,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_24.wav,ifilyo filya fyaleya no mumana fimbi nafyo icisoka kalambo calelya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_15.wav,e calenga taifumina panse inshita ishingi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_19.wav,katampa na ukunwa ilyo line,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_14.wav,bali no kumona uulengelesha nelyo uusakaisha fye babeba nefyo beshibe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_6.wav,kalulu abwelelamo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_6.wav,lombe e saungawile,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_21.wav,awe alaya afika na mumushi apita na mumbali ya mushi nga filya fine bacimweba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_2.wav,ala epo caipila ukwikala weka ciine,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_6.wav,awe nalyo line akaana atiulefumyamofye nsupa yobe,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_13.wav,balima babyala na mu mu mabala ya mfumu na ya bantu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_10.wav,cilafye mumushi mwatalala utubundi palwino twaima twakakula na icimpompo ca mulunshi twabulamo na ifyakufwala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_24.wav,cilya cabafye icungulo imfumu aiti kabiye nomba mune,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_42.wav,uluceelo abantu balonga na kwisano,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_8.wav,mumbi alondolola na ifyo caali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_35.wav,awe kapoli ayanina na panuma yakwa mpungu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_10.wav,nkalamo alaaya kakalulu nako kalaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_34.wav,banyina babuula nakameme baingisha na mu nanda,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_18.wav,conse nga balefwaya kuti balyako nefyo bepike pa kwishiba uwipike ifyatalalila atemwa ifyanunkila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_3.wav,umubiye ati iyoo tacafishe mulefwayafye iyefwesa eyo mutale mulebombelamo pa nshita ii nsupa ishilakosa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_11.wav,abaice bonse abalumendo na bakashana balongana pamo pa lubansa apo bamona apasensebuka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_8.wav,icakonkapo kwikula pakuti balumbwe bakwate amaka ya kubomba imilimo imbi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_6.wav,nakanda nakabushe imfuko pakumfwa umwela waingila mu mushi waiko uwatalala yaima ukuyacilika apalepitila umwela,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_41.wav,nomba pakumupa ifumo abati kwena nemwine ifumo ili lya micence kanshi bayelisunga bwino,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_27.wav,basakanya pamo pakuti utuni tatuleputula no kukaanabola bwangu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_32.wav,cilya capalama ukuti baleke ukubutuka uyo uumukonkelepo ayafukatila no mubiye uyo ali mukati elyo bonse baleka ukubutuka elyo alasamuna nakabili,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_33.wav,nga cakuti iliba talyateyelwe bwino kuti shasendamo fye ubulyo shaya no kuya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_49.wav,kamupenunapo akati fumapo twikalepo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_10.wav,kuti cilya yati fye cetu ukucetula akalume umupeto wafwampuka akakota kali no kufululuka mu cikwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_26.wav,pantu yasulwa na ku mbwa bayaposa fye ukutali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_38.wav,imfumu aiti atasee lelo nimwe baume bakuya kuli sunkutu uwayansha arnalumba,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_16.wav,nga wafika muli uyu mushi walayamo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_5.wav,e calengele no kuti mulenga akukile ku cipooma ca kalamho eko abalile ukupepela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_18.wav,baleeta na icipuna epo kaikala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_23.wav,pa kukoma ubulimbo bwa mwikalampungu baswako tulya tutwalako baubako amamba e pakulasheta,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_20.wav,kafula ati we shikuluwe bushe ikoosa ilipatile ndefumya shaani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_23.wav,cilya akana kafuma emiile kabili na kambi akatumapo nako kaya ifyo fine pashalafye umo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_29.wav,imfumu aiti kabiye mune,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_16.wav,cilya abafye pakati kampanga ati awe kwena kantale mone ico kaleluka,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_13.wav,cilya apwafye elyo akokonkote akati,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_23.wav,abanakashi tabatumbula mfuko umulandu wena nshaishiba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_49.wav,mumbi uyu aaletitye konse uko ti ayeopile bamukaana konse uko aya bamukaana,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_37.wav,imfumu yalifyele umwana umwanakashi umusuma saana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_28.wav,uluceelo umbi afika pesano,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_25.wav,aiti nga kuno wishile kunshi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_9.wav,uluceelo abantu bafumina mumpanga mumilimo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_5.wav,ilyo caba ku maca bamukolwe nabo balalila ninshi bonse baishiba ukuti nomba bwaca ifimbwi nafyo fyaleka ukulila,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_26.wav,nga bakoma bwakula e pa kuya mu mpanga atemwa ku mushitu uko bamona mutanu eo bayapamina ubulimbo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_7.wav,cilya afika alonganya bakalulu banankwe bonse abatula na umulandi ati,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_49.wav,ailofya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_28.wav,kwaba nomba kufwaya ico canunkila mu musango uyo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_24.wav,ala nomba katutushe twanaka apo tutendekele palepa nefyo twaumfwa nafyo fyafula,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_5.wav,pa kukuula bateta utumuti baimika bwinobwino,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_29.wav,kapoli kale aalifye nakanwa akasuma ngefi fine inama mbiye shonse shaba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_31.wav,balabutuka bonse no kwimba baleimba,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_36.wav,abantu bonse balongana na kwisano,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_23.wav,pimeni ubukalamba bwa cishima,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_28.wav,tabababa bepika fye na masako pantu yaba ayanakilila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_11.wav,cilafye nkalamo aba nga mulya apilibuka ati mune kalulu bushe na utubantu uko kwine kukowa tulesako,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_18.wav,mwe mfumu mukalima mukakopole na maboko tafyakamene mulenga amutumina ifyasalulwa atemwa ifyaipikwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_49.wav,kabilibita mukwai mu mutenge akati ubulanda ubulanda,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_14.wav,kabili ukushinguluka umutanda wakwe alimineko ifyumbu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_32.wav,abantu nomba bacita shaani batiina,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_6.wav,aleetifye bwaca aya muumpanga mukulunga aisa naipaya amapulu insenshi na utunama tumbi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_45.wav,akantu ako,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_31.wav,balanailapo ubwali batwala na pa nsaka apali abakalamba nabo balyako,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_2.wav,nasunkutu mumutima aletifye mwandi aka kantu nako balaisakafulula ku mulume kabili fino ali na mu nshila kukwisa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_35.wav,nelyo fye ni nama kuti bapela abaice bena balatobela imfuko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_4.wav,mumbi ailumba na ukuilumba ati,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_29.wav,abantu baipushanya nakalya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_18.wav,elyo aciti akameme ako nakupeela tapali kukeba ilyo uleeya munshila ukuti we kameme kandi luka tumone iyoo tekwesha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_22.wav,mumbi ati eya mukwai alaisa na ukwisa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_13.wav,mumbi alondolola ifyonse na umo eshile,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_17.wav,soosa nao mu mpanga ekalile ukuiconcobwela alelongofyanya no kulongofyanya,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_37.wav,ciisuma kafikenipo mukwai,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_15.wav,cilya babafye kumbali ya mushi bonse bashala baingila na kucibwendo cimo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_6.wav,kuti basalangana baleenda akatalamukila ukufuma ku munankwe balesapika amendo ne mishita balefwaya ku fyulu nelyo pa mushilinshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_17.wav,icikwa nga nacikata umupeto ulalondomana tawinama ngomo baciteyele kabili nga nacipusa ulololoka ninshi nacisankwila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_13.wav,sunkutu pakumfwa ifyo ati kanshi akwenda mune,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_44.wav,awe pasooboke na umuntu umo atampa na ukunwa ubwalwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_19.wav,mu ng'anda mwabuutafye tuutu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_19.wav,apo ninshi nabalaba na ku milimo ya kasuba baishibaefye ico batontonkanya ukucita,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_38.wav,kapoli atemwa saana pantu imilundu yonse umo alya imyambo na kalundwe alaimona,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_18.wav,awe mukwai ni cikanga balepuke,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_34.wav,mukwai kalulu aba ni lumbwe wa mfumu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_22.wav,abafyashi nabo bapokelela no mucinshi no kubatasha apakalamba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_24.wav,awe mukwai akeba ati we kameme kandi luka tumone,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_12.wav,no bushe ulya mulenga atumine imfumu imbuto ishasalulwa,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_18.wav,cinecine lesa abapo wa maka yonse,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_33.wav,tabailemusanga pa mutanda basangile naya ku kupepa ku cipooma,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_10.wav,asebela apo impuku shifumina aya na ku kupama iciliba acileta na pa bwendo pene apo asebele,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_42.wav,fwaya mwano uwaleeta akantu aka uko aaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_9.wav,iciwa aciti cisuma temulandu mune,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_1.wav,amaliba ya mpuku na ya tuni fyalilekana muli fimofimo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_5.wav,nga bafika mu mpanga bali no kufwaya amendo apo impuku shingila,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_6.wav,epali nindabako fimo na fimbi ifyo nshibwishe kuti bamushimikilako,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_20.wav,tacalinga ukukula icishima pa mushili uwakosa wa mabwemabwe,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_36.wav,ala kabili ndeshimikila fye bonse abekala mushi pakuti tulesunga ifishima bwino,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_20.wav,cilya amaka yacepa akati mukwai naisa kantale njeposako amenshi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_28.wav,awe ulumendo uyu aipaya na imfumu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_43.wav,umulumendo abuula na umubamfu webange na inseke apeela na imfumu ailanga na ifyo babyala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_31.wav,muinbi apumpapo na ubulendo aya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_3.wav,te ku cifulo ca kwangala fye lelo no kusambililako ifyo bafwile ukwikala mu mabumba ne nsansa ne cikuuku ne milimo imbi iyalekanalekana,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_34.wav,ubo bwine e bushikw alelekela lesa ifintu alimine,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_0.wav,umulumendo camupesha arnano nomba atiina ukwingila pabwendo abwelelamo nakumushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_37.wav,ubushiku bumo umushi umo walwalika nomba umuti wa bulwele wali peshilya lya mumana pamushi umbi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_22.wav,asuka afisha ati we kameme kani mina,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_27.wav,mu mfuko tabashamo muto nga baipika baleka fye shakaminina umucele waingila na mu mutwe elyo baipula,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_4.wav,kuti cikashana ukuyasosa kuli bawishi batifye kabebe ine ndefwaye fumo lyandi limoneke ifumo lya micence,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_28.wav,awe umulumendo aya na mukayanda baamulangile,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_38.wav,elyo yalaita abene ba ng'anda aiti,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_8.wav,ili no kuputula ulushishi ku meno pakuti isendeko kalombwela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_30.wav,cilya alumbula kalya kamunyina atemwisha kakasuli eko alekelesha e kakwisamwawila asosa no kusosa ati nomba tubutuke,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_20.wav,akameme ukashile banoko bakashale balekasunga,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_36.wav,bonse pa kusalangana bema fye nga malabi na mpuu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_2.wav,ala nomba elyo lwanya mwaisa masukulu mwaisa itewetewe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_10.wav,aciti wafuma kwi,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_49.wav,iwe mune tala itilako amenshi ku mucanga wa muchishima ilyo taulatampa kwimba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_36.wav,imfumu aiti eya mune,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_2.wav,umulumendo abwelela na pacalo aya na kumushi kwa bashifyala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_10.wav,ati mune leka mfwalepo ikoosa lyobe,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_33.wav,pantu nga ifibumba fya mufishima fyatampa ukupanga imilale ninshi mwaishiba ukuti ifishima fili mupepi nokungoloka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_2.wav,nako akati awe kanabesa ine nacepafye lelo ndi mwaume saana ku bwalwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_16.wav,elyo ako keena kaya na mumushi kaeba na imfumu akati tubileeni ubwalwa nomba,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_19.wav,canca bundi canca,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_19.wav,pakuti tabalelaba fyonse ifyantambi shesu fwe bena africa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_24.wav,kanshi mu nganda umo nga tamwaba tulumendo tumbi cibinda wine e ufwile atumbula elyo banyina basamfya bwino bwino no kwipika,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_1.wav,awe imfumu yakaka yapeela na umulumendo aiti efyo ukaya mukukangasha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_32.wav,cilya yasangafye cacine ubwalwa nabupwa aiti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_21.wav,elyo nga wanonka ifyuma ifingi elyo ukase ukase kuno ukesenjeba elyo nkesakweba ifyakucita,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_33.wav,umushi na umbi wali peshilya libiye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_24.wav,kakalulu kabuula na icimucila kaupula na mwana nkalamo akati konkela ababiyo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_18.wav,cilya cibinda afikapo alashula na banankwe balemulolela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_22.wav,nomba uyo ali mukati e uli no kutendeka ukwimba ulwimbo lwine ulo tulembele pamulu,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_17.wav,bushe incende yakukulapo icishima ifwile yaba shani,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_3.wav,pantu muli ii nshita umushili uba uwanaka ne mfuko shine e nshita shatemwa ukutuka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_29.wav,no kushipikisha balashipikisha ukucitilapo na fimbi ifisuma ifyakusansamusha abafyashi babo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_49.wav,elyo ii nsupa yakula saana nomba tayakosele iyoo kabili kumushishi onse kwatwelefye insupa imo epela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_4.wav,cilya afikafye na isembe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_14.wav,ku lushishi ulo apyatile umumposempose eko akakila no bulyo akakila pakati kalushishi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_13.wav,mumbi ati iyoo mukwai nshaeshe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_31.wav,mutanu nao nga afulisha tabuwama kabili nga acepa nalyo cabipa pantu utuni kuti tuleputula nga twaikatwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_48.wav,awe mukwai kapoli asanga na icibwendo apo acifuma,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_10.wav,awe akaposha akalondolwela na umo endele,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_30.wav,yaingila na mu iliba yatendeka ukuputula umumposempose,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_5.wav,nga balefwaya kuti bapitamo ukulengula ifyo babalilepo ukuteya limolimo balepaya,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_22.wav,alefiposa na palya amenshi yaponena alesosa na mashiwi ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_25.wav,cilya kafika akati nabwela nemwaume libili,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_44.wav,alunga alunga na ukuti epayepo nelyo kabundi nakalya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_25.wav,umulume wa mpuku nao alaeba umukashi ati,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_38.wav,elyo umulumendo umo aisamukobekela,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_33.wav,we kakote kekele apo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_6.wav,mumbi ati nine mumbi wasulwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_30.wav,kali kashimi kapela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_20.wav,kaingila na munyambi kabuula na umutete kaingisha,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_8.wav,umulumendo alasa na ubulanda panshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_49.wav,kabundi nao camupesha amano pakumona ifintu fyonse ifi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_29.wav,cilya caba icungulo asokela na ibange afumina na palukungu apeepa apeepa akoola na ukukoola ailumba na ukuilumba ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_23.wav,eiyo kamina na membya yonse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_9.wav,kalulu ati cisuma kabiyeni,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_45.wav,imilmo yapwa kumitanda elyo abati natubwelele ku mushi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_26.wav,nga bafumya icikwa ku cimuti balapisha impela ye sembe mu mbali emo bapisha no lushishi ulo bapyatile umumposepose nabakaka ne nkotya e kushishila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_4.wav,elyo nako akati nkesa mailo we mfumu pantu lelo lyena ninjikutisha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_25.wav,tepapo twashalafye na insala,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_23.wav,imfumu aiti watula kwi mune,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_4.wav,fimbi nafyo filetulangako inshila shimo isho twingasansamushishamo abakalamba,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_10.wav,mwenya mu mutima ati nshakopwe nga baishiba inkaama ya kusalule mbuto,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_18.wav,abalumendo nga bamona ukuti imfuko shiletuka sana atemwa bafyashi e bashipundilila ico shileonaula ifyakulya mu mabala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_20.wav,pa kutendeka ukucita njele ya tata kuti batantama umulongo uwashinguluka baikatana na maboko bonse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_28.wav,kwaisa kambi nako kaya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_43.wav,imfumu yatubila na ubwalwa mucisupa icikulu saana,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_11.wav,utumakasa utusuma utwabuuta kwati mwana wa kanya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_22.wav,cilya afika pesaano alaala na pacishala atoota,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_15.wav,ilyo bafika pa cikwa ca munabo bamona ukuti cili londo cibinda acincila no kucincila,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_35.wav,elyo yati itontonkanye aiti cisuma kanonganye abantu bandi bonse mbebe ifyo ndinafyo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_5.wav,mwamonekeni mukwai,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_10.wav,nomba cilya bati balebandafye uyo muuntu na mwane bafika,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_24.wav,insala ni ndiminwa te mpulilwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_45.wav,kafika katuula na inyambi yakako paniwinshi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_46.wav,awe amulasa na ifumo pa maboko kapoli ati tuye muno,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_31.wav,tutwalile uwaikala eka mu mpanga tacawama ukuya ku mwana uleikampa fye nga we cipuba,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_11.wav,kankabebe lyena bakacila ukuntemwa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_21.wav,twacinda mukwai twacindilako na bene bamushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_15.wav,kakalulu akati tuleendeca uleke njemufundako ifyakuti mwisemowe ilyo abantu baleisa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_7.wav,ulya uwalengula ubwendo no kwishiba ukuti ni mpuku shingilapo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_34.wav,cilya yatikafye munanda yaisalako na icibi yakeba na ukukeba aiti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_15.wav,kafuma kayafumya umutwe wakwa sunkutu mulitumba na icimucila kumo kaisacisebeka na pamulilo akati,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_9.wav,ati endekofye panoono afika na apaikele akakonkote kalilwele na icipute,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_19.wav,kabili limbi catusenda twayawa nga umo mutekele imyungu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_38.wav,elyo imfumu aiti leta mune na ine ntotomyemo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_30.wav,baima no tubunga mu kape na tucilemba mu kanweno abati,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_3.wav,mwati mutute ne cipale awe iyo nomba kuti wasuma no munwe kwikata fye icinwa ca pesamba ni teka fitalale,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_31.wav,utwana apo twileiminina twamonafye uko aleisa ulubilo nyina nabamupisha twayafye iciyeyeye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_14.wav,awe balaya na kucishiba uko kalulu amwene,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_39.wav,ubushiku bumo lumbwe atuma umukashi ati kangashimineko ifumo kuli batata nsende kukulunga,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_3.wav,cilya aflka pakati kampanga na inuni yatula na uku yati na cekc ceke ceke,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_13.wav,kanamupilikisho na kanamunsanki tafifwaikwa ku maliba ya musango uyu kano fye iliba no lushishi na namumpanda epela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_3.wav,mpingule kalandu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_33.wav,lyena tayaipwishe na kwipusha iyoo yasendafye yena iletifye nalelo kaleyandukila umusano,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_27.wav,ici calelenga ifiko mu menshi ayo bashalebilushako iluntu tabalati banwe nangu bepikile,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_4.wav,imitutu tuyanda uto bakuula utwafimuti atemwa amabuula atemwa utwafyani,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_20.wav,aupomba na kuli namumpanda akaka no kukaka ninshi ateya capwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_3.wav,ifimbwi fili no kutendeka ukulila,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_20.wav,kalubalabala kaluntensha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_25.wav,awe nkalamo akaposa na pefwe kaibila,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_1.wav,balya balesambamo atemwa ukutapamo amenshi kuti baambula ubulwele,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_28.wav,nkalamo pa kumona ifi atemwa saana akulila kalulu kunse ati na ine leka ngowepo amaituiukunye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_26.wav,mumbi pa kumona ifi atemwa nga kolwe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_33.wav,cilya nkalamo ati apute mumutete amenshi yaingila munyambi yaisula na ukwisula,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_46.wav,bashicilyc baebele mumbi abati kanshi mwandi imfumu eyakubalile,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_12.wav,awe umulumendo atampa na ukukafyontelela icipute,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_19.wav,umulimi ati omfwe ati na ukuti ine ndefwaya ikoosa nomba line umwana wandi afwale,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_41.wav,kapoli nao akaana atoloka na panuma yakwa mpungu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_6.wav,ilyo line abuula na umubamfu webange apeepa apeepa na meenso yakashika nacee abuulapo nalimo akaka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_36.wav,kabili aba bantu baalipatene saana na banabo peshilya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_26.wav,kali kashimi kapela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_22.wav,umuntu nao ashala aleumanyna umukashi ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_21.wav,nyina aleloleshafye,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_7.wav,ubushiku bumo aya ipaya utubundi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_23.wav,elyo kasuma na kumpela ya mutete kaingisha cinoono washala naupula,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_14.wav,cilya bwaila imfumu yaeba mwane aiti maayo kaleteni ubulanda bwa batata teisetwangashepo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_0.wav,banyina kwa mumbi bati bateshe bafulwa icibi nomba ico kale imfumu shaleecita ifyo shitemenwe teti bacite nelyo ciimo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_16.wav,acetekela ukuti alabamba asosa no kusosa ati londo kapeto we cikete banshimba bacanga abalakulondawila,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_4.wav,ilyo tabalaima bali no kupekanishishalibela fyonse ifibombelo inkasu amasembe no bukungilo bwine kufuma nabo ku mushi tukalundwe no tubalala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_22.wav,ubulimbo bakoma kuli ii miti e bwawamisha ukucila ubwa ku miti iyo tushilumbwile pantu bwena tabubola bwangu kabili bwalikonda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_48.wav,pali na umulumendo umo ishina lyakwe ni mumbi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_12.wav,elyo baumfwa ulya ali pe shilya nao atenkunya na pa noma nelyo atinta ku nyenjele,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_35.wav,abantu abati nga ni kalulu naipaya nga alapunda shaani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_43.wav,elyo abati mukwai kwena mwiesha kukeeba ukuti we kameme kandi luka tumone,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_25.wav,mu kwipika no kusakamana ifibombelo fyabo no kukwata icikuuku,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_9.wav,elyo imfumu parnwana waiko ilefwaya ukuti uukopa umwana waiko akanwe nsupa ya bwalwa eka,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_26.wav,abaume na banakashi alelumbula ne milimo aletontonkanya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_12.wav,utubundi twabuula na ulwimbo atuti,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_24.wav,ifyo ciba pa kutendeka ukubutuka kuti ulya wine ali mukati alesamuna ulwimbo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_10.wav,icishima cifwile caba mupepi paba umusebo wa motoka lya kuleta shamende amatafwali na fimbi fyashala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_9.wav,icilyo yatemwisha ni lombwela utumpolyo insaasa kalundwe ifyumbu umumbu na fyonse ifya mu mushili,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_12.wav,nomba wikeba munshila auti we kameme kandi luka tumone,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_40.wav,mukwai yasuka imfumu ilya yafwa komafye na mucitumbi mwine casuka calepauka kacayafye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_32.wav,banyina abati ee tata natesha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_23.wav,cilya kafika pa cibwendo kaingila,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_37.wav,elyo aiti mwe bantu bandi bonse moneeni ine naalifyala umwana uyu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_44.wav,awe afika bakabilo bamutuula na umulandu,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_3.wav,imfumu na bantu baleponenwa pe ne nsala pantu inshita ishingi tabalelima balebakilwa ku kulwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_5.wav,ipusheni na ku bakalamba pantu te fyonse njishibe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_32.wav,kabili na inkalamo nga teti injikate,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_0.wav,nankalamo ati aloleshe afulwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_8.wav,imfumu pa kumona ifi aiti mwe bantu bandi kuleeni ilinga mushingaushe umushi sunkutawamilimo alapwa abantu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_29.wav,kabula na inyambi akatiingila,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_26.wav,ati mukwai njishile ndelondola ifumo lyandi naalashile kapoli elyo aingila pabwendo elyo naine epo naingila e buno bwamfisha kuno,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_33.wav,ubushiku bumo aebo mubiye ati mune mpungu ndefwaya unsendeko mumuulu uleke mone ifyo icalo caba panonshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_47.wav,mukwai kaluka ulya wine maayo kalukile pali mumbi uwawama nga malaika,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_3.wav,tondo nao eco umulomo wabeela filya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_26.wav,nyina nao aisafuma ati kankonkele abana aba tabaise bwangu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_19.wav,abalumendo batemwa nganshi pakuti bafwaye umunani uuleonaula ifyakulya mu mabala,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_13.wav,imiti imoimo iyaishibikwa iyo utuni tulyako umuluba no kunwako amenshi ya buci mipundu imitobo imifinsa ya mu mushitu na imbi iingi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_7.wav,babuula na mabuula atemwa icani bafimbako,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_12.wav,limolimo kuti yatutila mu cikwa na ku mpepa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_27.wav,kanshi cilabafwako ukubakusha mu buntu bwinebwine mu kubalesha ifilubo no kubafunda ifisuma,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_6.wav,nkalamo ati shinjebako mune,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_1.wav,kuli chisha uko mulenga aikele talekele kulima,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_39.wav,akati kwena nelyo naipaya sunkutu umukashi eko ali,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_4.wav,umulume nao amupeela na ifumo ati twalila batata ifumo lyabo ili,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_6.wav,alebapeela lelo panuma ya lubuli balwile na baswahili lyena nakaoma alikenye mwane ukubapeela imbuto ishisuma ati salula,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_42.wav,imfumu aiti kabiye cisuma,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_37.wav,ubushiku bumo imfumu yaleetandala mumushi yasanga na kameme pa mwinshi kaleyangala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_9.wav,abantu nabo tebakaani bakula na icililinga icikulu saana bashingulusha umushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_40.wav,akulaisa ku kulwisha abantu kumushi elyo bakampoka umukashi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_5.wav,umuntetenga wandi nalyonawile pakupeela lumbasa kanshi nga napeele mwenya namuni alakulu pafilinda,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_48.wav,abantu bonse bapwa ukufilwa,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_37.wav,lelo ico ali pa cipooma icalecita icongo teti ateshe,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_43.wav,imbeketi iyi yilemoneka kwati nai tulika,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_18.wav,balabapelako inshita imo iyakucita amangalo yamoyamo ayasuma aya ku mushi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_39.wav,imfumu yainaminamo yati na tototototototo yailumba na ukuilumba nayo aiti yamulumbwe tololo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_24.wav,abantu baisa balaipushanya abati nga shilya noma shacilalila bushe tekuno mushi shacilalila,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-190410_bem_c4b_elicit_3.wav,ifingi filetulangako ifyo tufwile ukwikala ne nsansa mu mabumba na mu tubungwe twa baice,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_15.wav,cisuma kanonganye abantu bandi mbebe ifyakucita,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_33.wav,kaisabula na inyambi na imitwe na ifisansa kalaya na kurnushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_28.wav,elyo mumbi alalondolola na umo eendele,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_6.wav,endita mukwai ala njishile ndeipushako bakula icishima,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_42.wav,yasuka amabwe yapwa balateeta impikiso,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_21.wav,umulumendo atemwa umukashana ku bafyashi na ku bakalamba bambi apo bekele icibwanse atemwa pa nsaka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_22.wav,bushe ikoosa nalyo kuti lyapata shaani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_13.wav,nyina ena alakankafye,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_2.wav,kuli ici cifulo abalumendo na bakashana balanga ukumfwana no kwangalila pamo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_29.wav,ifyo fine abatantawila fye bonse pyuu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_25.wav,ubulimbo bwa ku miti imbi bwena pa kukoma kuti bakoma amafwa emo bulesumina elyo balekambatula,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_14.wav,cisuma mune wabomba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_2.wav,ulwakuteya ifikwa lwisa mu nshita ya mainsa ukutendeka mu mweshi wa kabengele ukwisafika na mu kapepo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_2.wav,abantu baingila mu mayanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_24.wav,aleenifye leteni ikoosa lya mwana wandi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_25.wav,alelumbula na mashina ya bamunyina bonse,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_30.wav,elyo mwinemushi ati mailo lyena tukabelamefye mumputa tukamone ifilishe noma kuno mushi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_45.wav,cilya anaka asanga nakapoli umofye mpo umukulu saana,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_26.wav,ifishima kale baleimbila mumbali ya kamana icalenga ukuti amenshi ya mfula ayakumulundu yalepongomokelamo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_26.wav,banyina bati bamumone batemwa saana,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_43.wav,awe lumbwe ulya aima aya na mumpanga,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_27.wav,ifilyo fyakwe fyafundile nganshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_45.wav,ilyo line na kanwa kasapatala,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_19.wav,aleyako cila bushiku,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_26.wav,umulimi ati ine nshilefwaya kutelebwila ndefwayafye ikoosa ikoosa lya mwana wandi limoneke,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_46.wav,awe bashimya na umulilo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_8.wav,umukashi aipikapo tumo utwashala aanika na palwino,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_14.wav,ninshi kuli bamwana yama na menso mu mitwe yafuma kwati ni nyenye balabilima fye,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_42.wav,awe nao umukashana ayashimikila na wiba,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_30.wav,kanshi nga baipika teti balekele abaice ebo baletakanya iyo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_14.wav,kabili na abalumendo balemukabila,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_15.wav,ku mpela ibiye iya lushishi akakilako akamuti atemwa icani pa kukanalesha ulushishi ukukulika,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_6.wav,cinembenembe nanga mwifwesa kumuti ninshi kunina,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_31.wav,umulwele ifyo baamufwaile umuti,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_25.wav,mukwai kaluka umwanakashi umusuma saana wakuti nga walolesha namaka yapwa kumo na maano,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_8.wav,cilya anaya ubwali nomba ati mpungule umunani kakalulu akati tala nanga umunani tumone,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_21.wav,cilya imfula yakalika baima baiaaya na mwane,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_26.wav,pantu inshita ilya abantu tabaishibe kulima balelima panono mu manika,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_7.wav,bati bendekofye cinoono bamona na utucushi tulefuuka pamitanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_20.wav,akana kamo akati kwati cabatata ici,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_13.wav,mwine wa mushi ele kwi,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_0.wav,mulenga afwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_23.wav,nobe wine waba namuno tawacenjela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_9.wav,babikamo ne ciibi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_6.wav,bakakila no lushishi pakuti tukose,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_17.wav,mu masukulu mwine tabaleka fye iyo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_32.wav,mukwai kayabashintafye ukutali elyo kalabwelako,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_1.wav,kapoli ilyo line alapa na ukulolesha mumuulu na na nomba talolesha mumuulu iyoo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_30.wav,cilya sunkutu aingila kabula na umutete kamupa ati sumako,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_34.wav,calati cati ciibuke  kacitintila uku,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_31.wav,kali kashimi kapela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_0.wav,bayaikala ku nkungu sha mitutu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_0.wav,nomba aupa na abo beene imfumu yaupile kumo na cisotwe wakwe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_9.wav,nomba nga bayangala cafuula bali no kubwelela ku mushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_44.wav,umubiye nao aali mulimi mukalamba aabyele na insupa mupepi na insaka,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_37.wav,umulumendo ulya asenda na ifinkuli fyakwe pa mfumu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_14.wav,elyo iciwa aciti tacafishe mune cisuma,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_22.wav,kumfwa nabo nga baumfwa fimo tafiweme balafunda abana na beshikulu bwinobwino pakuti belakula na bucipelelo balabalanga ne milimo balelufyanya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_1.wav,uko mumbi aile na umutima wafutma atampa na ukwisa kumushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_3.wav,imfumu yasuka yasumina,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_8.wav,basha no mwinshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_19.wav,iliba lyaisa shintilila pa mumposempose epo lyasama,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_19.wav,nomba icishele kutila fye akamweo takaileta kano we muntu wabilinganapo fye,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_36.wav,kapitililafye kwisano kafika kafubula na inyami muceni ca mfumu kafumya na umutwe na ifisansa a umucila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_41.wav,akati awe ine ndefwaya nje kukumulolela kunse yelinga pantu ine umutima ulesabasaba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_23.wav,imfumu aiti cisuma sunkutu esa icungulo pembela,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_1.wav,abanankwe bonse baupa bapwa ena ashala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_28.wav,kamina mukwai na ukumina,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_48.wav,ilyo line nao umulomo wanyunyumbuka wafikafye apatali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_3.wav,kasuba uyu aalebeka nga kasub nga ishina e patulile na ukumwinika ishina line lilya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_3.wav,ilyo line aima alungamafye uko kwine kwafumine akamerne nasenda na akasembe,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_44.wav,intambo kwati naipipa,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_13.wav,ashila na umukashi ubulanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_30.wav,maayo akantu aka naleeta ine mailo nkaya kukunonka ifyuma,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_39.wav,kalulu ati yangu kanabesa ee ala ako usulile ekopa noko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_30.wav,kamukunkunika mukwai,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_6.wav,cilya bwaila umulumendo aeba na umukashi ati shimya umulilo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_2.wav,awe afika banyina bamulondolwela na imilandu yashala yamoneka kumushi,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_25.wav,alelima ifilyo fyvakwe mu nika ya buningi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_29.wav,bwangubwangu kurnona imo yacincila no kucincila yebele kanje mbule nine uleke tusende,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_33.wav,umuntu onse afwile aikwatila ubulimbo bwakwe eka no kuisungila mu katontolo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_33.wav,pa nsaka abakalamba balatemwa sana nga bamona umunani wa mfuko,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_2.wav,umukashi ati iyee mulume wandi lelo baletuleka kuli batata,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_25.wav,epali imisana yafunika mu kufotobala nge nsupa ya mamfwente,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_7.wav,umukashi ashimya na umulilo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_43.wav,abantu balakatuka na insele abati we mwana ukwafwa ifipokapoka fishimulenga na fishingosa eko utilefye iwe we kanangwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_13.wav,awe abika na ifipe pamwinshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_28.wav,kuti abalumbula nelyo epo bali nelyo tabalipo te mulandu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_12.wav,mu nshita shimoshimo abakalamba balatandalila aba ku mitutu no kumona ifyo imilimo yabo ilebombwa nefyo baleyangala,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_6.wav,insala nayo yabekata nganshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_49.wav,yabula na kameme yaipaya aiti kwisa kamina,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_4.wav,elyo ne filyo fifula mu mpanga na mu mabala no kunona elyo shinona,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_41.wav,bakandile wa mfumu nomba kwikata banaamumbi abati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_18.wav,kabika na mafumo ifi akati natutale tutuce,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_40.wav,ilyo line na imfumu yakapela na kasuba kaupa kaba ni kalumbwe,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_10.wav,cilya akasuba kawa amenso yabwela yakana ukulamona ukutali,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_17.wav,wipita mukati kamushi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_26.wav,kanwa kanwa cilya kanaka akati ala ubwalwa bwena ukubunwa kuposa amenshi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_16.wav,ilyo bena ku mushi icikasha ca kutobela umusalu caipaya fye ni cikanda ne mpuupu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_38.wav,elyo abati tutungulule tuyesenda,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_40.wav,abantu pakumfwa abati we mfumu citafye lelo line,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_7.wav,lilya ili mu kuya yapita pa cikwa yasanga akalume na kalombwela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_14.wav,taimona bwino mu lubuto kano fye mu mfifi mu bwendo bwaiko,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_28.wav,cilya abantu balaisa kumushi twaleka,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_7.wav,pantu kuntanshi nga basanga tafimenene abantu bakapate mfumu shabo bakacite iwe imfumu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_1.wav,umupeto ashimpa mu mbali elyo aupeteka aisakakilako na kalume pamo na kakota,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_21.wav,umulimi ati awe mukwai shinalimo mulebepafye,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_7.wav,mulandu wakutila ifyakupusaukilako nafifulisha nafisempuka e mulandu wine cilemonekela kwati balelaba,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_14.wav,kalubalabala kaluntensha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_7.wav,umulimi ulya ati tata tacikosa kubili aonaula na insupa yakwe yapapa na ukuapapa ico ishakosele,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_8.wav,nkalamo ati yangu ee nga twaya bonse nici nayafye ndelunga,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_6.wav,umushi waba panshi nomba iloba ilyo ituka e limoneka no kwishibila eko abantu beshibila ukuti pali umushi wa mfuko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_43.wav,yatampa na ukukaloka kayafye kasuka kafika na pa mitanda pa sunkutu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_26.wav,uluceelo abantu balasalanganina mumpanga,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_15.wav,nomba umfwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_7.wav,awe nasunkutu atekapo na ubwali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_22.wav,ubushiku bwine ubo umo afika pesano ati we mfumu ine nafike,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_7.wav,konda bulimbo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_39.wav,awe kapoli aeba umubiye ilyo line bali mumuulu ati mune leka na me mpupuke,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_21.wav,abati kabiye,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_10.wav,abalilepo ukulima ibala ilyo abyelemo imbuto imisango yonse mwali amale amasaka imbalala kalundwe,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_18.wav,yakatoba na panshi kaisaimina na mumutenge kati na ukuti ubulanda uhulanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_18.wav,icimwela ciine cileti nga catusenda twayawa nga fllya na umwana,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_39.wav,bacitile ifi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_2.wav,nga ateya apwa nomba kuyatula umumpempa uwakupisha impepo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_1.wav,ku mitutu e ku cifulo uko abalumendo na bakashana batemwa ukwangalila mu nshita ya kukula kwabo,F,0
+9,/scratch/skscla001/experiments/datasets/bemgen/audio/09-200916-054405_bem_a40_elicit_12.wav,ee cimbi icikankala kumona ukuti icishima cili ku mulundu intampulo hundred ukufuma ku cimbusu nangu ku cishima ca ngombe,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-164857_bem_c20_elicit_7.wav,awe aima alaya alungamafye uko kwine kucibwendo,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_32.wav,katayi ulya na mwane baiposa na mu nshila balaya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_23.wav,kanshi nomba twamona ukuti ku mitutu te kwa masange fye iyo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_24.wav,nacilati ipule myungu tulye na ukuti uteshe iyoo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_4.wav,chilufya ee kanayo bwali,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_17.wav,ati we kameme kandi luka tumone,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_16.wav,insala nayo elyo yacila,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_1.wav,ifinyau ifyaleemukana nomba fyalamutiina na ukumutiina,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_25.wav,cilya umukashi amwebafye aima alungama na kwisano ayaeba na imfumu ati,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_47.wav,akati mwapoyeni mukwai,F,0
+16,/scratch/skscla001/experiments/datasets/bemgen/audio/16-201008-152306_bem_40e_elicit_22.wav,tabamushikile iyo batila abolele mulya mwine,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_5.wav,abantu baalikete mumushi mwali na imulunshi wa mbwa umo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-161959_bem_c4b_elicit_7.wav,kumfwa umuli itumba limolimo abati emo ipita pa kuya mu kufwaya icakulya caiko,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_9.wav,mukwai mu nanda mwabutafye tuutu,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_11.wav,kaisaikata imfuko ku mutwe atemwa mu mukoshi nelyo pa citimbatimba nelyo fye ku kuulu nangu ku meno no kufwa yafwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_27.wav,cili kwati alebatuma ukuyacita iyo milimo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_27.wav,nomba lilya kaputa mumutete imfundwa shaisafuma pa muulu wa menshi shileti bobobobo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-145657_bem_c4b_elicit_17.wav,no kumona uwacikuuku ku bana no kumona abacincila na bananani,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_12.wav,elyo ifi few bantu ukulya kwesu kwaba mumpanga alati uwafuma yatina uwafuma yatina,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_15.wav,ese atambe utomba,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_20.wav,bati bomfwe ifyo cabapesha amano basokolola na imyunga balalyafye bonse,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_33.wav,kalulu uko aali kumwakwa ati omfwe fi ati ine uko cikabile eko nja uko citalele nako eko nshili,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_41.wav,abantu babili baalikele pa mitanda,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_8.wav,kuti aeba ababiye pakuti bemusha eka nabo balafwaila lwa mupepi pa kumupembela,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_9.wav,awe iyo ninshi capwa fye lubilo nabakuwa na ku matwi ukuya ku ciyanda ukulelila iyo noma,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-094743_bem_c20_elicit_26.wav,elyo kaputa na mumutete ninshi nkalamo ashele nakata icisempe ca mwando lubali,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-162122_bem_c20_elicit_32.wav,cilya bafumafye imputa babelama na mumputa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_12.wav,aciti finshi ulefwaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_3.wav,insala yaliponene na umuntu umo aali mulwendo na mwane amainsa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_27.wav,mukwai yakulapo na umukula,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-185414_bem_c4b_elicit_2.wav,mutale katape amenshi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_42.wav,cilya ati apumanye utumoolu uleke apampaile awe cakaana alungamafye panshi,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_47.wav,paisa umbi nao afilwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_38.wav,kanshi baacitile shaani pakumona ulya muti pakuti kabinge abanabo peshilya abafwile babasabilako umuti baalipateene nabo,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_11.wav,mumbi nafuma ku mushi,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-142446_bem_c4b_elicit_10.wav,bawamya no lubansa,F,0
+14,/scratch/skscla001/experiments/datasets/bemgen/audio/14-201008-145225_bem_40e_elicit_13.wav,ku mono aleengako amafuta ya kusuba umwine no kusuba ku cipe alesendelamo ifya kubomya pa kupepa alesubako ne nkula pakuti cibe icabusaka,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-110927_bem_c20_elicit_34.wav,cilya kapalamafye kumushi katampa na ukupunda akati kunkuta na lelo walya ee na lelo walya ee,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_47.wav,tondo nao ati amone uko lumbasa aleseka kapoli ico wena ni banalume afulwa asola na umusolo,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_10.wav,kalati kabilibita kabilibita mumutenge akati ubulanda ubulanda ubulanda,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_13.wav,awe abanankwe bonse basumina,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_32.wav,pati papitefye utushiku tunoono na imfumu yamona nakameme kakwa mumbi kalya,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_45.wav,mukwai anwafye icimena cekaceka namaka yapwa,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-164709_bem_c4b_elicit_21.wav,bonse kuti baleteya ifyo fine mu ncende monse balelengula amendo atemwa imishita,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-154519_bem_c20_elicit_34.wav,mpungu ati ee cisuma kulila tawilecita mwenso mumuulu,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_25.wav,kutifye cilya afumafye ilinga aiti niwe mpelwe,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_10.wav,nomba ndefwaya bamunyinane mukayengafwako ukunwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-152623_bem_c20_elicit_7.wav,iciwa aciti cinshi ulefwaya,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-130741_bem_c20_elicit_16.wav,wishi atintililako afliwa,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_23.wav,cilya afikafye pakati kampanga ati shikantale mone ifyo kalecita nga natila we kameme kandi luka tumone,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_15.wav,kuti wamona uuli apa aleipyampyawila pakuti beya mukupika ca mu numa kuli ulya ekata coko ati tausambile,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_4.wav,abalumendo abengi baaleefwaya ukumuupa nomba aaleekaana,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_0.wav,kafunpisha nani uyu cinshi ici,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201007-191752_bem_c4b_elicit_20.wav,e pa kupanga ukuya mu kuteya ubulimbo,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201011-181911_bem_c4b_elicit_10.wav,conse nga ni ku kutamba umupila yaba uko te kwakusosa na kusosa ni wanshila ani tata shibwalya,F,0
+11,/scratch/skscla001/experiments/datasets/bemgen/audio/11-201010-172917_bem_c4b_elicit_25.wav,imbwa nasho tashilya mala ya mfuko nalimo eco basosela no kuti wabipa nga mala ya mfuko,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200916-150125_bem_c20_elicit_42.wav,babula na kameme ako bapeela na imfumu,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_3.wav,umukashi alamuposha,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200918-153816_bem_c20_elicit_0.wav,imfumu kunkuta yalikeele yatekele umushi uukalamba saana,F,0
+7,/scratch/skscla001/experiments/datasets/bemgen/audio/07-200916-171635_bem_c20_elicit_26.wav,kanofye ubulanda bwandi bumoneke lino line nga tabwamoneke ndekutumbula mbulemo ubulanda bwandi,F,0
+6,/scratch/skscla001/experiments/datasets/bemgen/audio/06-200917-110207_bem_c20_elicit_33.wav,ee uyu wine elumbwe pantu efyo naasosele nemwine,F,0
